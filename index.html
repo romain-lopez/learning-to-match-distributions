@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning to Match Distributions — NYU Fall 2026</title>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@400;600&family=Source+Code+Pro:wght@400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --text: #1a1a1a;
+            --text-secondary: #555;
+            --accent: #57068c;
+            --bg: #fafaf8;
+            --border: #ddd;
+            --max-width: 680px;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Source Serif 4', Georgia, serif;
+            color: var(--text);
+            background: var(--bg);
+            line-height: 1.7;
+            font-size: 17px;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            padding: 3rem 1.5rem 5rem;
+        }
+
+        header {
+            margin-bottom: 2.5rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 2px solid var(--accent);
+        }
+
+        h1 {
+            font-size: 1.65rem;
+            font-weight: 700;
+            line-height: 1.3;
+            margin-bottom: 0.8rem;
+            letter-spacing: -0.01em;
+        }
+
+        .meta {
+            font-family: 'Source Sans 3', sans-serif;
+            font-size: 0.92rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        .meta a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .meta a:hover {
+            text-decoration: underline;
+        }
+
+        h2 {
+            font-size: 1.15rem;
+            font-weight: 700;
+            margin-top: 2.2rem;
+            margin-bottom: 0.6rem;
+            letter-spacing: -0.01em;
+        }
+
+        p {
+            margin-bottom: 0.9rem;
+        }
+
+        .topic-block {
+            margin-bottom: 0.8rem;
+        }
+
+        .topic-block strong {
+            font-weight: 600;
+        }
+
+        .topic-block .detail {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+
+        ul {
+            margin: 0.5rem 0 0.5rem 1.2rem;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 0.3rem;
+        }
+
+        .prereq {
+            margin-top: 1.8rem;
+            padding: 1rem 1.2rem;
+            background: #f3f0f6;
+            border-left: 3px solid var(--accent);
+            font-size: 0.95rem;
+        }
+
+        .note {
+            font-family: 'Source Sans 3', sans-serif;
+            font-size: 0.88rem;
+            color: var(--text-secondary);
+            font-style: italic;
+            margin-top: 2rem;
+        }
+
+        footer {
+            margin-top: 3rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--border);
+            font-family: 'Source Sans 3', sans-serif;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Learning to Match Distributions:<br>Optimal Transport, Flow Matching &amp; Applications</h1>
+            <div class="meta">
+                Fall 2026 · New York University<br>
+                <a href="https://romain-lopez.github.io/">Romain Lopez</a><br>
+                Time &amp; location TBD
+            </div>
+        </header>
+
+        <p>
+            This seminar course explores how to match and transform probability distributions for machine learning applications. The course begins with a few lectures on optimal transport and flow matching, and transitions into a reading group covering contemporary methods and applications across scientific domains.
+        </p>
+
+        <div class="prereq">
+            <strong>Prerequisites &amp; requirements.</strong>
+            The class is open to graduate students with a background in machine learning who have taken a course in probability and statistics at the level of
+            <a href="https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf" style="color: var(--accent);">Fernandez-Granda (2024)</a>
+            or equivalent. Familiarity with convex optimization is helpful but not required.
+            Students will present and review papers throughout the semester, and complete a semester-long research project.
+        </div>
+
+        <h2>Part I — Mathematical Foundations</h2>
+        <p style="font-size: 0.95rem; color: var(--text-secondary); margin-bottom: 1rem;">
+            Tentative list of topics covered:
+        </p>
+
+        <div class="topic-block">
+            <strong>Comparing distributions: divergences, MMD &amp; kernel methods.</strong>
+            <span class="detail"><em>f</em>-divergences, kernel mean embeddings, maximum mean discrepancy, two-sample testing.</span>
+        </div>
+
+        <div class="topic-block">
+            <strong>Optimal transport: computing couplings.</strong>
+            <span class="detail">Monge and Kantorovich formulations, Wasserstein distances, duality, entropic regularization, Sinkhorn algorithm.</span>
+        </div>
+
+        <div class="topic-block">
+            <strong>Flow matching: continuous morphing of distributions.</strong>
+            <span class="detail">Continuity equation, conditional flow matching, probability paths, connections to score-based diffusion.</span>
+        </div>
+
+        <h2>Part II — Methods <span style="font-weight: 400; font-size: 0.95rem;">(Reading Group)</span></h2>
+        <p style="font-size: 0.95rem; color: var(--text-secondary); margin-bottom: 0.5rem;">
+            We will set the syllabus as we go. Below are some topics we may discuss.
+        </p>
+        <ul>
+            <li>Continuous normalizing flows &amp; neural ODEs</li>
+            <li>Flow matching &amp; stochastic interpolants</li>
+            <li>Rectified flows</li>
+            <li>Conditional flow matching with OT paths</li>
+            <li>Neural optimal transport</li>
+            <li>Monge gap &amp; estimating transport maps</li>
+            <li>Minibatch OT &amp; scalable approximations</li>
+            <li>Schrödinger bridges</li>
+            <li>Wasserstein gradient flows &amp; JKO scheme</li>
+        </ul>
+
+        <h2>Part III — Applications <span style="font-weight: 400; font-size: 0.95rem;">(Reading Group)</span></h2>
+        <p style="font-size: 0.95rem; color: var(--text-secondary); margin-bottom: 0.5rem;">
+            We will set the syllabus as we go. Below are some topics we may discuss.
+        </p>
+        <ul>
+            <li>Single-cell trajectory inference &amp; perturbation modeling</li>
+            <li>Distribution matching for causal inference &amp; domain adaptation</li>
+            <li>Image generation, editing &amp; unpaired image-to-image translation</li>
+            <li>Molecular generation &amp; drug design</li>
+            <li>Modeling dynamical systems in physics</li>
+            <li>Music generation</li>
+        </ul>
+
+        <footer>
+            NYU Computer Science · Fall 2026
+        </footer>
+    </div>
+</body>
+</html>
