@@ -4,11 +4,8 @@ layout: home
 nav_order: 1
 ---
 
-# Learning to Match Distributions
+# Learning to Match Distributions: Optimal Transport, Flow Matching & Applications
 {: .no_toc .mb-2 }
-
-### Optimal Transport, Flow Matching & Applications
-{: .no_toc .mb-3 }
 
 **CSCI-GA 3033-148** · New York University · Fall 2026
 {: .fs-5 .text-grey-dk-000 }
