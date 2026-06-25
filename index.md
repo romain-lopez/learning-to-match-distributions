@@ -1,35 +1,99 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Learning to Match Distributions
+{: .no_toc }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+### Optimal Transport, Flow Matching & Applications
+{: .no_toc }
 
-More specifically, the created site:
+**CSCI-GA 3033-148** · New York University · Fall 2026
+{: .fs-5 }
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+A graduate special-topics seminar on how to **compare, couple, and interpolate
+between probability distributions** — and why these three operations underpin a
+large swath of modern machine learning, from generative modeling to single-cell
+biology and causal inference.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+The course alternates between **instructor lectures** that build the mathematical
+foundations (integral probability metrics, optimal transport, flow matching) and
+**student-led reading sessions** run as a structured role-play (author, skeptic,
+archaeologist, hacker) around recent papers.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+---
 
-To get started with creating a site, simply:
+## Logistics
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+| | |
+|---|---|
+| **Instructor** | [Romain Lopez](https://romain-lopez.github.io) |
+| **Time** | Mondays, 4:55–6:55 PM ET |
+| **Location** | 60 Fifth Avenue, Room C10 |
+| **Term** | Fall 2026 (Sep 14 – Dec 14) |
+| **Format** | Lectures → student-led reading group |
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+See the [Calendar](calendar) for the full week-by-week schedule and the
+[Syllabus](syllabus) for the themes and reading list.
 
-----
+---
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+## Prerequisites
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Students should have a **graduate-level machine learning** background plus
+solid **probability and statistics** (at the level of Fernández-Granda's
+*Probability and Statistics for Data Science*, 2024). Comfort with Python and
+basic deep-learning tooling is expected for the project and demos.
+
+---
+
+## Course structure
+
+The semester is organized around three operations on distributions:
+
+1. **Distances** — how do we measure that two distributions are close?
+   (Integral probability metrics, MMD, Wasserstein.)
+2. **Coupling** — how do we map the mass of one distribution onto another?
+   (Monge/Kantorovich, Sinkhorn, Brenier, Gromov–Wasserstein.)
+3. **Interpolating** — what is the path *between* two distributions?
+   (Dynamic OT, Wasserstein barycenters, continuous normalizing flows → flow matching.)
+
+Each theme is motivated by real applications (generative modeling, domain
+adaptation, single-cell genomics, causal inference, music generation) and paired
+with a set of recent papers for the reading group.
+
+---
+
+## Grading
+
+> **Note:** the grading breakdown below is a working default adapted from a
+> comparable NYU seminar and is **subject to revision** before the first class.
+
+| Component | Weight |
+|---|---|
+| Early assignment | 10% |
+| Paper presentation & panel participation | 30% |
+| Semester-long project | 60% |
+
+- **Early assignment** — a short warm-up to get everyone on the same tooling.
+- **Paper presentation & panel** — each student takes on reading-group roles
+  (author / skeptic / archaeologist / hacker) across the semester; see
+  [Calendar](calendar) for the run-of-show.
+- **Project** — an application/demo or a research project, in teams of 1–4.
+  See the [Project](project) page for options, milestones, and deadlines.
+
+---
+
+## Use of AI
+
+> **TBD** — an explicit policy on the use of AI assistants for assignments,
+> presentations, and the project will be announced at the first class.
+
+---
+
+## Communication
+
+> **TBD** — the course communication platform (e.g. a Discord or course forum)
+> will be announced before the semester starts.
