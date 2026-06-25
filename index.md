@@ -34,7 +34,7 @@ This class develops the mathematical machinery for exactly these three operation
 
 Students should have a **graduate-level machine learning** background plus
 solid **probability and statistics** (at the level of Fernández-Granda's
-*Probability and Statistics for Data Science*, 2024). Comfort with Python and
+[*Probability and Statistics for Data Science*](https://www.ps4ds.net/), 2024). Comfort with Python and
 basic deep-learning tooling is expected for the project and demos.
 
 ---
