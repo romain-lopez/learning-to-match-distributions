@@ -7,6 +7,8 @@ nav_order: 3
 # Role-play Seminar
 {: .no_toc }
 
+{% include wip.html %}
+
 After the opening instructor lectures, the class shifts to student-led
 presentations and panel discussions, following Alec Jacobson and Colin Raffel's
 [role-play seminar approach](https://colinraffel.com/blog/role-playing-seminar.html).

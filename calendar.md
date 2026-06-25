@@ -7,6 +7,8 @@ nav_order: 2
 # Calendar
 {: .no_toc }
 
+{% include wip.html %}
+
 ## Part I · Instructor lectures
 {: .part-header }
 

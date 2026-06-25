@@ -7,6 +7,8 @@ nav_order: 4
 # Project Logistics
 {: .no_toc }
 
+{% include wip.html %}
+
 The semester-long project is the largest component of the grade (70%). It is your
 chance to go deep on one corner of the course material.
 
