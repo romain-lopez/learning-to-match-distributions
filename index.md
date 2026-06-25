@@ -17,31 +17,16 @@ This class develops the mathematical machinery for exactly these three operation
 
 ---
 
-## Teaching Team
+## Instructor
 
 <div class="staff-card">
   <img class="staff-photo" src="{{ '/assets/images/romain.jpg' | relative_url }}" alt="Romain Lopez">
   <div class="staff-info">
     <a class="staff-name" href="https://romain-lopez.github.io">Romain Lopez</a>
-    <span class="staff-meta">Email: TBD</span>
+    <span class="staff-meta">Email: romain.lopez@nyu.edu</span>
     <span class="staff-meta">Office Hours: TBD</span>
   </div>
 </div>
-
----
-
-## Logistics
-
-| | |
-|---|---|
-| **Instructor** | [Romain Lopez](https://romain-lopez.github.io) |
-| **Time** | Mondays, 4:55–6:55 PM ET |
-| **Location** | 60 Fifth Avenue, Room C10 |
-| **Term** | Fall 2026 (Sep 14 – Dec 14) |
-| **Format** | Lectures → student-led reading group |
-
-See the [Calendar](calendar) for the full week-by-week schedule and the
-[Syllabus](syllabus) for the themes and reading list.
 
 ---
 
@@ -51,6 +36,29 @@ Students should have a **graduate-level machine learning** background plus
 solid **probability and statistics** (at the level of Fernández-Granda's
 *Probability and Statistics for Data Science*, 2024). Comfort with Python and
 basic deep-learning tooling is expected for the project and demos.
+
+---
+
+## Logistics
+
+| | |
+|---|---|
+| **Time** | Mondays, 4:55–6:55 PM ET |
+| **Location** | 60 Fifth Avenue, Room C10 |
+| **Format** | Lectures → student-led reading group |
+
+See the [Calendar](calendar) for the full week-by-week schedule and the
+[Syllabus](syllabus) for the themes and reading list.
+
+
+---
+
+## Format
+
+The course will adopt a hybrid format. Initially, the instructor will provide
+lectures to offer a broad overview and context. Following this, the class will
+seamlessly shift to student-led presentations and panel discussions, utilizing
+Alec Jacobson and Colin Raffel's role-play seminar approach.
 
 ---
 
@@ -98,7 +106,7 @@ with a set of recent papers for the reading group.
 
 ---
 
-## Communication
+## Discord Group
 
-> **TBD** — the course communication platform (e.g. a Discord or course forum)
-> will be announced before the semester starts.
+We will use Discord to facilitate discussion. The instructor will provide the
+link during the first class.
