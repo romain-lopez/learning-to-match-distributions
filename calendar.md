@@ -8,6 +8,7 @@ nav_order: 2
 {: .no_toc }
 
 ## Part I · Instructor lectures
+{: .part-header }
 
 First, Romain will give a few lectures to set up the foundations — what it means
 to compare, couple, and interpolate between distributions — and to cover some
@@ -44,6 +45,7 @@ flows → flow matching.
 ---
 
 ## Part II · Reading group
+{: .part-header }
 
 The class then shifts to student-led presentations and panel discussions, run as a
 role-play seminar. See [Role-play Seminar](reading-group) for how the sessions are
