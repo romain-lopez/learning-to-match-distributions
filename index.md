@@ -68,21 +68,14 @@ can surface any gaps early. Difficulty with this assignment is a strong signal t
 the technical content of the course will be challenging.
 
 > **Details and release date: TBD** — to be announced at the first class.
-> Assignment release and due dates appear on the [Calendar](calendar).
 
 ---
 
 ## Grading
 
 Grading will be based on:
-1. Semester-long project (70%)
-2. Paper presentation & panel participation (30%)
-
-- **Project** — an application/demo or a research project, in teams of 1–4.
-  See the [Project Logistics](project) page for options, milestones, and deadlines.
-- **Paper presentation & panel** — each student signs up to present papers and
-  take on reading-group roles; graded on presentations and live panel
-  participation (no written reviews). See the [Role-play Seminar](reading-group) page.
+1. Semester-long project (70%): an application/demo or a research project, in teams of 1–4. See the [Project Logistics](project) page for options, milestones, and deadlines.
+2. Paper presentation & panel participation (30%): Each student signs up to present papers and take on reading-group roles; graded on presentations and live panel participation (no written reviews). See the [Role-play Seminar](reading-group) page to learn more about the format.
 
 ---
 
