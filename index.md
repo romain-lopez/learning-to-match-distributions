@@ -68,7 +68,7 @@ can surface any gaps early. Difficulty with this assignment is a strong signal t
 the technical content of the course will be challenging.
 
 > **Details and release date: TBD** — to be announced at the first class.
-> See the [Welcome Assignment](assignments) page.
+> Assignment release and due dates appear on the [Calendar](calendar).
 
 ---
 

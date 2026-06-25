@@ -11,12 +11,11 @@ nav_order: 2
 
 First, Romain will give a few lectures to set up the foundations — what it means
 to compare, couple, and interpolate between distributions — and to cover some
-practical and non-technical skills for the semester. A short **Welcome
-Assignment** is released in the first class (see [Welcome Assignment](assignments)).
+practical skills for the semester.
 
 ### Mon Sep 14 · Distances between distributions
 Course intro & logistics. Integral probability metrics, Maximum Mean Discrepancy,
-and the Wasserstein-1 distance.
+and the Wasserstein-1 distance. **Welcome assignment released** — due TBD.
 - A Kernel Two-Sample Test (Gretton et al., 2012)
 - Generative Moment Matching Networks (Li et al., 2015)
 
