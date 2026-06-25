@@ -37,3 +37,28 @@ html {
 .staff-meta {
   color: #6c6a73; // muted grey, matches Just the Docs secondary text
 }
+
+// Calendar styling — h3 session headers only appear on the Calendar page.
+.main-content {
+  // "Part I / Part II" section headers
+  h2 {
+    margin-top: 2.4rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid #eceaf5;
+  }
+
+  // Individual session headers: accent rule + clear separation
+  h3 {
+    margin-top: 1.7rem;
+    margin-bottom: 0.4rem;
+    padding-left: 0.7rem;
+    border-left: 4px solid #7253ed; // purple accent
+    font-size: 1.05rem;
+  }
+
+  // Tighten the reading lists under each session
+  h3 + p {
+    margin-top: 0.2rem;
+    color: #4a4750;
+  }
+}

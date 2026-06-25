@@ -1,7 +1,7 @@
 ---
 title: Welcome Assignment
 layout: default
-nav_order: 5
+nav_order: 4
 ---
 
 # Welcome Assignment

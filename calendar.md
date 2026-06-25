@@ -7,15 +7,6 @@ nav_order: 2
 # Calendar
 {: .no_toc }
 
-All sessions meet **Mondays, 4:55–6:55 PM** at 60 Fifth Avenue, Room C10, unless
-noted otherwise.
-
-> **Draft schedule.** Dates, topics, and papers below are tentative and will be
-> refined before and during the semester (including after the first-class topic
-> vote). Paper links will be added in a later pass.
-
----
-
 ## Part I · Instructor lectures
 
 First, Romain will give a few lectures to set up the foundations — what it means
