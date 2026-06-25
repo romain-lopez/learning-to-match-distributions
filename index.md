@@ -56,8 +56,19 @@ link during the first class.
 
 ## Course Schedule
 
-See the [Calendar](calendar) for the full week-by-week schedule, readings, and
-the reading-session run-of-show.
+The [Calendar](calendar) will be regularly updated with the full week-by-week schedule, readings and topics.
+
+---
+
+## Welcome Homework
+
+A short, ungraded, warm-up assignment will be
+released during the first class. It is designed to get everyone on the same
+tooling and to refresh the prerequisite background, so we can surface any gaps
+early. If you struggle with this homework you might have a hard time grappling with 
+the technical contents of the class.
+
+> **Details and release date: TBD** — to be announced at the first class.
 
 ---
 
@@ -80,19 +91,12 @@ with a set of recent papers for the reading group.
 
 ## Grading
 
-> **Note:** the grading breakdown below is a working default adapted from a
-> comparable NYU seminar and is **subject to revision** before the first class.
-
 | Component | Weight |
 |---|---|
-| Early assignment | 10% |
+| Semester-long project | 70% |
 | Paper presentation & panel participation | 30% |
-| Semester-long project | 60% |
 
-- **Early assignment** — a short warm-up to get everyone on the same tooling.
-- **Paper presentation & panel** — each student takes on reading-group roles
-  (author / skeptic / archaeologist / hacker) across the semester; see
-  [Calendar](calendar) for the run-of-show.
+- **Paper presentation & panel** — each student will sign up for papers and take on reading-group roles across the semester;
 - **Project** — an application/demo or a research project, in teams of 1–4.
   See the [Project](project) page for options, milestones, and deadlines.
 
@@ -100,6 +104,14 @@ with a set of recent papers for the reading group.
 
 ## Use of AI
 
-> **TBD** — an explicit policy on the use of AI assistants for assignments,
-> presentations, and the project will be announced at the first class.
+You are encouraged to use AI assistants (LLMs, coding copilots) as tools
+throughout the course — for coding, brainstorming, and learning. Two conditions:
+
+- You are fully responsible for everything you submit or present: correctness,
+  claims, and citations are on you.
+- Briefly disclose how you used AI in each deliverable.
+
+AI is no substitute for genuine understanding — in panels and discussions you
+must be able to defend your work without it.
+
 
