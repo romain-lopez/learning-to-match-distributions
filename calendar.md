@@ -42,36 +42,35 @@ flows → flow matching.
 ## Part II · Reading group
 {: .part-header }
 
-The class then shifts to student-led presentations and panel discussions, run as a
-role-play seminar. See [Role-play Seminar](reading-group) for how the sessions are
-organized, the roles, and expectations. Papers in this part are **presented by
-students** in the reading group.
+Papers in this part are **presented by students** in the reading group. See
+[Role-play Seminar](reading-group) for how the sessions are organized, the roles,
+and expectations.
 
 ### Mon Oct 5 · OT for domain adaptation
 *Papers to present:*
 - Optimal Transport for Domain Adaptation (Courty et al., 2017)
 - DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation (Damodaran et al., 2018)
 
-### Wed Oct 14 · Distributions as objects: metric learning over point clouds
+### Wed Oct 14 · Distributions as objects
 *Legislative Day — Monday schedule.*
 
 *Papers to present:*
 - Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers (Haviv et al., 2024)
 - Generative Distribution Embeddings: Lifting Autoencoders to the Space of Distributions (2025)
 
-### Mon Oct 19 · Supervised learning of Monge maps
+### Mon Oct 19 · Supervised Monge maps
 *Papers to present:*
 - Monge Gap (Uscidda & Cuturi, 2023)
 - Conditional Monge Gap (Driessen et al., 2026)
 
-### Mon Oct 26 · Relaxing balance: unbalanced OT
+### Mon Oct 26 · Unbalanced OT
 <span class="cal-tag cal-due">Due</span> **Project — preliminary proposal**
 
 *Papers to present:*
 - Scaling Algorithms for Unbalanced Optimal Transport (Chizat et al., 2018)
 - Unbalancedness in Neural Monge Maps (Eyring et al., 2024)
 
-### Mon Nov 2 · Transport across incomparable spaces: Gromov–Wasserstein
+### Mon Nov 2 · Gromov–Wasserstein
 *Papers to present:*
 - Gromov–Wasserstein Averaging of Kernel and Distance Matrices (Peyré, Cuturi & Solomon, 2016)
 - Gromov–Wasserstein Alignment of Word Embedding Spaces (Alvarez-Melis & Jaakkola, 2018)
@@ -89,14 +88,14 @@ students** in the reading group.
 ### Mon Nov 23 · No class
 *Thanksgiving week.*
 
-### Mon Nov 30 · Few-step & one-step flow matching; guidance
+### Mon Nov 30 · Few-step flow matching & guidance
 *Papers to present:*
 - Flow Map Matching (Boffi et al., 2025)
 - Mean Flow (Geng et al., 2025)
 - Guided Flows for Generative Modeling and Decision Making (Zheng et al., 2023)
 - CFG-Zero\*: Improved Classifier-Free Guidance (Fan et al., 2025)
 
-### Mon Dec 7 · Applications: single-cell genomics & music
+### Mon Dec 7 · Applications: single-cell & music
 *Papers to present:*
 - Optimal-Transport Analysis of Single-Cell Gene Expression / Waddington-OT (Schiebinger et al., 2019)
 - GENOT: Generative Entropic Neural Optimal Transport (Klein et al., 2024)
