@@ -13,6 +13,24 @@ noted otherwise.
 > the order and contents will be adjusted (including after the topic vote in the
 > first class). Readings are listed on the [Syllabus](syllabus).
 
+## Course structure
+
+The semester is organized around three operations on distributions:
+
+1. **Distances** — how do we measure that two distributions are close?
+   (Integral probability metrics, MMD, Wasserstein.)
+2. **Coupling** — how do we map the mass of one distribution onto another?
+   (Monge/Kantorovich, Sinkhorn, Brenier, Gromov–Wasserstein.)
+3. **Interpolating** — what is the path *between* two distributions?
+   (Dynamic OT, Wasserstein barycenters, continuous normalizing flows → flow matching.)
+
+Each theme is motivated by real applications (generative modeling, domain
+adaptation, single-cell genomics, causal inference, music generation) and paired
+with a set of recent papers for the reading group.
+
+---
+
+
 1. TOC
 {:toc}
 
@@ -39,21 +57,9 @@ noted otherwise.
 
 ---
 
-## Reading-session run-of-show (120 minutes)
+## Reading sessions
 
-Each student-led reading session follows a structured role-play:
-
-| Time | Segment |
-|------|---------|
-| 0:00–0:10 | Settle + rapid ice-breaker |
-| 0:10–0:50 | **Paper 1** — Author pitch → Skeptic rebuttal → instructor-driven debate → Hacker 1 demo |
-| 0:50–1:30 | **Paper 2** — leaner: Author / Skeptic → Hacker 2 demo |
-| 1:30–1:40 | **Archaeologist** ties the lineage together |
-| 1:40–1:55 | Open floor + instructor synthesis |
-| 1:55–2:00 | Wrap |
-
-**Roles.**
-- **Author** — presents the paper and makes its strongest case.
-- **Skeptic** — prepares the sharpest rebuttal and open questions.
-- **Archaeologist** — situates the paper in its intellectual lineage (predecessors → successors).
-- **Hacker** — brings a small live demo or reproduction.
+Student-led sessions follow a structured role-play (Author, Skeptic,
+Archaeologist, Hacker) with a fixed 120-minute run-of-show. See the
+[Reading Group](reading-group) page for the roles, the timeline, and
+expectations.
