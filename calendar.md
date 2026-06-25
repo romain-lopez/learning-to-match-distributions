@@ -36,7 +36,7 @@ flows → flow matching.
 ## Part II · Reading group
 
 The class then shifts to student-led presentations and panel discussions, run as a
-role-play seminar. See [Intro to Role-play Seminar](reading-group) for how the
+role-play seminar. See [Role-play Seminar](reading-group) for how the
 sessions are organized, the roles, and expectations.
 
 ### Mon Oct 5 · OT for domain adaptation

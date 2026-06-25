@@ -82,7 +82,7 @@ Grading will be based on:
   See the [Project Logistics](project) page for options, milestones, and deadlines.
 - **Paper presentation & panel** — each student signs up to present papers and
   take on reading-group roles; graded on presentations and live panel
-  participation (no written reviews). See the [Intro to Role-play Seminar](reading-group) page.
+  participation (no written reviews). See the [Role-play Seminar](reading-group) page.
 
 ---
 

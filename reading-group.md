@@ -1,10 +1,10 @@
 ---
-title: Intro to Role-play Seminar
+title: Role-play Seminar
 layout: default
 nav_order: 3
 ---
 
-# Intro to Role-play Seminar
+# Role-play Seminar
 {: .no_toc }
 
 After the opening instructor lectures, the class shifts to student-led
