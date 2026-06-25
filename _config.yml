@@ -1,0 +1,16 @@
+title: Learning to Match Distributions
+description: Optimal Transport, Flow Matching & Applications — NYU CSCI-GA 3033-148, Fall 2026
+theme: just-the-docs
+
+url: https://romain-lopez.github.io
+baseurl: /learning-to-match-distributions
+
+aux_links:
+  GitHub: https://github.com/romain-lopez/learning-to-match-distributions
+
+# Keep planning notes and design docs out of the published site
+exclude:
+  - dump.md
+  - docs/
+  - Gemfile
+  - Gemfile.lock
