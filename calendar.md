@@ -10,11 +10,6 @@ nav_order: 2
 ## Part I · Instructor lectures
 {: .part-header }
 
-First, Romain will give a few lectures to set up the foundations — what it means
-to compare, couple, and interpolate between distributions — and to cover some
-practical skills for the semester. Papers in this part are **background reading**
-for the lectures.
-
 ### Mon Sep 14 · Distances between distributions
 Course intro & logistics. Integral probability metrics, Maximum Mean Discrepancy,
 and the Wasserstein-1 distance.
