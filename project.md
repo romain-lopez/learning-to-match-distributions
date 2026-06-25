@@ -1,10 +1,10 @@
 ---
-title: Project
+title: Project Logistics
 layout: default
 nav_order: 6
 ---
 
-# Project
+# Project Logistics
 {: .no_toc }
 
 The semester-long project is the largest component of the grade (60%). It is your

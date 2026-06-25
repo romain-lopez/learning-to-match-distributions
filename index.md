@@ -68,7 +68,7 @@ can surface any gaps early. Difficulty with this assignment is a strong signal t
 the technical content of the course will be challenging.
 
 > **Details and release date: TBD** — to be announced at the first class.
-> See the [Assignments](assignments) page.
+> See the [Welcome Assignment](assignments) page.
 
 ---
 
@@ -79,10 +79,10 @@ Grading will be based on:
 2. Paper presentation & panel participation (30%)
 
 - **Project** — an application/demo or a research project, in teams of 1–4.
-  See the [Project](project) page for options, milestones, and deadlines.
+  See the [Project Logistics](project) page for options, milestones, and deadlines.
 - **Paper presentation & panel** — each student signs up to present papers and
   take on reading-group roles; graded on presentations and live panel
-  participation (no written reviews). See the [Reading Group](reading-group) page.
+  participation (no written reviews). See the [Intro to Role-play Seminar](reading-group) page.
 
 ---
 

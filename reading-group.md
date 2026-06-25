@@ -1,10 +1,10 @@
 ---
-title: Reading Group
+title: Intro to Role-play Seminar
 layout: default
 nav_order: 4
 ---
 
-# Reading Group
+# Intro to Role-play Seminar
 {: .no_toc }
 
 After the opening instructor lectures, the class shifts to student-led

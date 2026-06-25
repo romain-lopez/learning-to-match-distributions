@@ -1,10 +1,10 @@
 ---
-title: Assignments
+title: Welcome Assignment
 layout: default
 nav_order: 5
 ---
 
-# Assignments
+# Welcome Assignment
 {: .no_toc }
 
 1. TOC
