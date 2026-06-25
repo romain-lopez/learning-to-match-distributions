@@ -10,15 +10,23 @@ nav_order: 1
 **CSCI-GA 3033-148** · New York University · Fall 2026
 {: .fs-5 .text-grey-dk-000 }
 
-A graduate special-topics seminar on how to **compare, couple, and interpolate
-between probability distributions** — and why these three operations underpin a
-large swath of modern machine learning, from generative modeling to single-cell
-biology and causal inference.
 
-The course alternates between **instructor lectures** that build the mathematical
-foundations (integral probability metrics, optimal transport, flow matching) and
-**student-led reading sessions** run as a structured role-play (author, skeptic,
-archaeologist, hacker) around recent papers.
+In a growing range of problems across statistics and machine learning, the object of interest is not a single data point but an entire distribution. A patient is summarized by the cloud of their single cells; an experimental condition by the population of measurements it produces; a generative model by its output distribution. Once distributions become the primary entity, a few basic questions come to mind: How far apart are two distributions? How do we transform one into another? What lies on the path between them?
+
+This class develops the mathematical machinery for exactly these three operations — measuring distances between distributions, learning maps that optimally move one onto another, and constructing flows that interpolate between them — alongside the statistical machine learning approaches (MMD, optimal transport, flow matching) that make them practical at scale. It also aims to arm students with the essential practical skills required to do further research in this rapidly evolving field.
+
+---
+
+## Teaching Team
+
+<div class="staff-card">
+  <img class="staff-photo" src="{{ '/assets/images/romain.jpg' | relative_url }}" alt="Romain Lopez">
+  <div class="staff-info">
+    <a class="staff-name" href="https://romain-lopez.github.io">Romain Lopez</a>
+    <span class="staff-meta">Email: TBD</span>
+    <span class="staff-meta">Office Hours: TBD</span>
+  </div>
+</div>
 
 ---
 

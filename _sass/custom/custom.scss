@@ -6,3 +6,34 @@
 html {
   font-size: 18px;
 }
+
+// Teaching Team / staff card: circular photo beside stacked contact info.
+.staff-card {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.staff-photo {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.staff-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.staff-name {
+  font-weight: 600;
+  font-size: 1.15rem;
+}
+
+.staff-meta {
+  color: #6c6a73; // muted grey, matches Just the Docs secondary text
+}
