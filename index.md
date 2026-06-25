@@ -62,43 +62,24 @@ The [Calendar](calendar) will be regularly updated with the full week-by-week sc
 
 ## Welcome Homework
 
-A short, ungraded, warm-up assignment will be
-released during the first class. It is designed to get everyone on the same
-tooling and to refresh the prerequisite background, so we can surface any gaps
-early. If you struggle with this homework you might have a hard time grappling with 
-the technical contents of the class.
+A short, ungraded warm-up assignment will be released during the first class. It
+gets everyone on the same tooling and refreshes the prerequisite background, so we
+can surface any gaps early. Difficulty with this assignment is a strong signal that
+the technical content of the course will be challenging.
 
 > **Details and release date: TBD** — to be announced at the first class.
 
 ---
 
-## Course structure
-
-The semester is organized around three operations on distributions:
-
-1. **Distances** — how do we measure that two distributions are close?
-   (Integral probability metrics, MMD, Wasserstein.)
-2. **Coupling** — how do we map the mass of one distribution onto another?
-   (Monge/Kantorovich, Sinkhorn, Brenier, Gromov–Wasserstein.)
-3. **Interpolating** — what is the path *between* two distributions?
-   (Dynamic OT, Wasserstein barycenters, continuous normalizing flows → flow matching.)
-
-Each theme is motivated by real applications (generative modeling, domain
-adaptation, single-cell genomics, causal inference, music generation) and paired
-with a set of recent papers for the reading group.
-
----
-
 ## Grading
 
-| Component | Weight |
-|---|---|
-| Semester-long project | 70% |
-| Paper presentation & panel participation | 30% |
+Grading will be based on:
+1. Semester-long project (70%)
+2. Paper presentation & panel participation (30%)
 
-- **Paper presentation & panel** — each student will sign up for papers and take on reading-group roles across the semester;
 - **Project** — an application/demo or a research project, in teams of 1–4.
   See the [Project](project) page for options, milestones, and deadlines.
+- **Paper presentation & panel** — each student will sign up for papers and take on reading-group roles across the semester;
 
 ---
 
