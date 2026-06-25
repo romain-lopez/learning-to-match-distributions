@@ -41,24 +41,23 @@ basic deep-learning tooling is expected for the project and demos.
 
 ## Logistics
 
-| | |
-|---|---|
-| **Time** | Mondays, 4:55–6:55 PM ET |
-| **Location** | 60 Fifth Avenue, Room C10 |
-| **Format** | Lectures → student-led reading group |
+**Time**: Mondays, 4:55–6:55 PM ET
+**Location**: 60 Fifth Avenue, Room C10
 
-See the [Calendar](calendar) for the full week-by-week schedule and the
-[Syllabus](syllabus) for the themes and reading list.
+**Format**: The course will adopt a hybrid format. Initially, the instructor will provide
+lectures to offer a broad overview and context. Following this, the class will
+seamlessly shift to student-led presentations and panel discussions, utilizing
+Alec Jacobson and Colin Raffel's [role-play](https://colinraffel.com/blog/role-playing-seminar.html) seminar approach.
 
+**Communication**: We will use [Discord](https://discord.com) to facilitate discussion. The instructor will provide the
+link during the first class.
 
 ---
 
-## Format
+## Course Schedule
 
-The course will adopt a hybrid format. Initially, the instructor will provide
-lectures to offer a broad overview and context. Following this, the class will
-seamlessly shift to student-led presentations and panel discussions, utilizing
-Alec Jacobson and Colin Raffel's role-play seminar approach.
+See the [Calendar](calendar) for the full week-by-week schedule, readings, and
+the reading-session run-of-show.
 
 ---
 
@@ -104,9 +103,3 @@ with a set of recent papers for the reading group.
 > **TBD** — an explicit policy on the use of AI assistants for assignments,
 > presentations, and the project will be announced at the first class.
 
----
-
-## Discord Group
-
-We will use Discord to facilitate discussion. The instructor will provide the
-link during the first class.
