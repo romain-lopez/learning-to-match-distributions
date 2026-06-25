@@ -71,6 +71,19 @@ html {
   }
 }
 
+// "Work in progress" banner on the home page
+.under-construction {
+  margin: 1.1rem 0 1.6rem;
+  padding: 0.75rem 1rem;
+  background: #fff6e0;
+  border: 1px solid #f0c850;
+  border-left: 5px solid #f0a500;
+  border-radius: 6px;
+  color: #6b4e00;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
 // Calendar deliverable tags (Released / Due)
 .cal-tag {
   display: inline-block;
