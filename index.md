@@ -8,7 +8,7 @@ nav_order: 1
 {: .no_toc .mb-2 }
 
 ### Optimal Transport, Flow Matching & Applications
-{: .no_toc .fw-300 .text-grey-dk-200 .mt-0 .mb-4 }
+{: .no_toc .mb-3 }
 
 **CSCI-GA 3033-148** · New York University · Fall 2026
 {: .fs-5 .text-grey-dk-000 }
