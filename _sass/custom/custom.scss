@@ -1,0 +1,8 @@
+// Site-wide style overrides for Just the Docs.
+
+// Increase the base text size. Just the Docs sizes most things in rem relative
+// to the root font-size (default 16px), so bumping this scales the whole site
+// — navigation and content — proportionally.
+html {
+  font-size: 18px;
+}

@@ -5,13 +5,13 @@ nav_order: 1
 ---
 
 # Learning to Match Distributions
-{: .no_toc }
+{: .no_toc .mb-2 }
 
 ### Optimal Transport, Flow Matching & Applications
-{: .no_toc }
+{: .no_toc .fw-300 .text-grey-dk-200 .mt-0 .mb-4 }
 
 **CSCI-GA 3033-148** · New York University · Fall 2026
-{: .fs-5 }
+{: .fs-5 .text-grey-dk-000 }
 
 A graduate special-topics seminar on how to **compare, couple, and interpolate
 between probability distributions** — and why these three operations underpin a
