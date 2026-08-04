@@ -95,7 +95,7 @@ and expectations.
 
 ### Mon Nov 23 · Unbalancedness in transport maps
 *Papers to present:*
-- [Scaling Algorithms for Unbalanced Optimal Transport](https://arxiv.org/abs/1607.05816) (Chizat et al., 2018)
+- [Unbalanced Minibatch Optimal Transport; Applications to Domain Adaptation](https://arxiv.org/abs/2103.03606) (Fatras et al., 2021)
 - [Unbalancedness in Neural Monge Maps](https://arxiv.org/abs/2311.15100) (Eyring et al., 2024)
 
 ### Mon Nov 30 · Applications I: single-cell biology
