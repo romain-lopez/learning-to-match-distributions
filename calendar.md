@@ -78,10 +78,10 @@ and expectations.
 - [Gromov–Wasserstein Averaging of Kernel and Distance Matrices](https://proceedings.mlr.press/v48/peyre16.html) (Peyré et al., 2016)
 - [Gromov–Wasserstein Alignment of Word Embedding Spaces](https://aclanthology.org/D18-1214/) (Alvarez-Melis & Jaakkola, 2018)
 
-### Mon Nov 2 · OT couplings inside flow matching
+### Mon Nov 2 · Guidance
 *Papers to present:*
-- [OT-CFM: Conditional Flow Matching with minibatch OT](https://arxiv.org/abs/2302.00482) (Tong et al., 2023)
-- [MMFM: Flow Matching across time and conditions](https://openreview.net/forum?id=hwnObmOTrV) (Rohbeck et al., 2025)
+- [Guided Flows for Generative Modeling and Decision Making](https://arxiv.org/abs/2311.13443) (Zheng et al., 2023)
+- [CFG-Zero\*: Improved Classifier-Free Guidance](https://arxiv.org/abs/2503.18886) (Fan et al., 2025)
 
 ### Mon Nov 9 · Flow matching on structured domains
 *Papers to present:*
@@ -93,10 +93,10 @@ and expectations.
 - [Flow Map Matching](https://arxiv.org/abs/2406.07507) (Boffi et al., 2024)
 - [Mean Flow](https://arxiv.org/abs/2505.13447) (Geng et al., 2025)
 
-### Mon Nov 23 · Guidance
+### Mon Nov 23 · OT couplings inside flow matching
 *Papers to present:*
-- [Guided Flows for Generative Modeling and Decision Making](https://arxiv.org/abs/2311.13443) (Zheng et al., 2023)
-- [CFG-Zero\*: Improved Classifier-Free Guidance](https://arxiv.org/abs/2503.18886) (Fan et al., 2025)
+- [OT-CFM: Conditional Flow Matching with minibatch OT](https://arxiv.org/abs/2302.00482) (Tong et al., 2023)
+- [MMFM: Flow Matching across time and conditions](https://openreview.net/forum?id=hwnObmOTrV) (Rohbeck et al., 2025)
 
 ### Mon Nov 30 · Applications I: single-cell biology
 *Papers to present:*
