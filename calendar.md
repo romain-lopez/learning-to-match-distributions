@@ -71,7 +71,7 @@ and expectations.
 - [Gromov–Wasserstein Averaging of Kernel and Distance Matrices](https://proceedings.mlr.press/v48/peyre16.html) (Peyré et al., 2016)
 - [Gromov–Wasserstein Alignment of Word Embedding Spaces](https://aclanthology.org/D18-1214/) (Alvarez-Melis & Jaakkola, 2018)
 
-### Mon Oct 26 · Guidance
+### Mon Oct 26 · Conditional generation and guidance
 <span class="cal-tag cal-due">Due</span> **Project — preliminary proposal**
 
 *Papers to present:*
