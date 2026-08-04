@@ -105,7 +105,8 @@ and expectations.
 
 ### Mon Dec 7 · Applications II: music generation
 *Papers to present:*
-- *Papers TBD*
+- [MusicFlow: Cascaded Flow Matching for Text Guided Music Generation](https://arxiv.org/abs/2410.20478) (Prajwal et al., 2024)
+- [Auto-Regressive vs Flow-Matching: a Comparative Study of Modeling Paradigms for Text-to-Music Generation](https://arxiv.org/abs/2506.08570) (Tal et al., 2025)
 
 ### Mon Dec 14 · Final project presentations
 <span class="cal-tag cal-due">Due</span> **Final project** — report & presentation
