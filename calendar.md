@@ -66,10 +66,10 @@ and expectations.
 - [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers](https://arxiv.org/abs/2404.09411) (Haviv et al., 2024)
 - [Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold](https://arxiv.org/abs/2408.14608) (Atanackovic et al., 2025)
 
-### Mon Oct 19 · Gromov–Wasserstein
+### Mon Oct 19 · Alternate OT problems
 *Papers to present:*
 - [Gromov–Wasserstein Averaging of Kernel and Distance Matrices](https://proceedings.mlr.press/v48/peyre16.html) (Peyré et al., 2016)
-- [Gromov–Wasserstein Alignment of Word Embedding Spaces](https://aclanthology.org/D18-1214/) (Alvarez-Melis & Jaakkola, 2018)
+- [CO-Optimal Transport](https://arxiv.org/abs/2002.03731) (Redko et al., 2020)
 
 ### Mon Oct 26 · Conditional generation and guidance
 <span class="cal-tag cal-due">Due</span> **Project — preliminary proposal**
