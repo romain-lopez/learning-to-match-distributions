@@ -59,7 +59,7 @@ and expectations.
 ### Mon Oct 12 · No class
 *Fall Break (university holiday).*
 
-### Wed Oct 14 · Alternate OT problems
+### Wed Oct 14 · Alternate optimal transport problems
 *Legislative Monday — classes meet on a Monday schedule.*
 
 *Papers to present:*
