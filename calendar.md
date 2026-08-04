@@ -59,12 +59,12 @@ and expectations.
 ### Mon Oct 12 · No class
 *Fall Break (university holiday).*
 
-### Wed Oct 14 · Supervised Monge maps
+### Wed Oct 14 · Supervised training of Monge maps
 *Legislative Monday — classes meet on a Monday schedule.*
 
 *Papers to present:*
+- [Supervised Training of Conditional Monge Maps](https://arxiv.org/abs/2206.14262) (Bunne et al., 2022)
 - [Monge Gap](https://arxiv.org/abs/2302.04953) (Uscidda & Cuturi, 2023)
-- [Conditional Monge Gap](https://arxiv.org/abs/2504.08328) (Driessen et al., 2025)
 
 ### Mon Oct 19 · Unbalanced OT
 *Papers to present:*
