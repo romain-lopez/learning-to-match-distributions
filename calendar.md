@@ -51,20 +51,20 @@ Papers in this part are **presented by students** in the reading group. See
 [Role-play Seminar](reading-group) for how the sessions are organized, the roles,
 and expectations.
 
-### Mon Oct 5 · Amortizing maps and flows over distributions
+### Mon Oct 5 · Supervised training of Monge maps
 *Papers to present:*
-- [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers](https://arxiv.org/abs/2404.09411) (Haviv et al., 2024)
-- [Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold](https://arxiv.org/abs/2408.14608) (Atanackovic et al., 2025)
+- [Supervised Training of Conditional Monge Maps](https://arxiv.org/abs/2206.14262) (Bunne et al., 2022)
+- [Monge Gap](https://arxiv.org/abs/2302.04953) (Uscidda & Cuturi, 2023)
 
 ### Mon Oct 12 · No class
 *Fall Break (university holiday).*
 
-### Wed Oct 14 · Supervised training of Monge maps
+### Wed Oct 14 · Amortizing maps and flows over distributions
 *Legislative Monday — classes meet on a Monday schedule.*
 
 *Papers to present:*
-- [Supervised Training of Conditional Monge Maps](https://arxiv.org/abs/2206.14262) (Bunne et al., 2022)
-- [Monge Gap](https://arxiv.org/abs/2302.04953) (Uscidda & Cuturi, 2023)
+- [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers](https://arxiv.org/abs/2404.09411) (Haviv et al., 2024)
+- [Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold](https://arxiv.org/abs/2408.14608) (Atanackovic et al., 2025)
 
 ### Mon Oct 19 · Gromov–Wasserstein
 *Papers to present:*
