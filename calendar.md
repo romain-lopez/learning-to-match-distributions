@@ -83,7 +83,7 @@ and expectations.
 - [Riemannian Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) (Chen & Lipman, 2023)
 - [Discrete Flow Matching](https://arxiv.org/abs/2407.15595) (Gat et al., 2024)
 
-### Mon Nov 9 · Fast sampling with flow maps
+### Mon Nov 9 · Fast sampling from flow-matching models
 *Papers to present:*
 - [Flow Map Matching](https://arxiv.org/abs/2406.07507) (Boffi et al., 2024)
 - [Mean Flow](https://arxiv.org/abs/2505.13447) (Geng et al., 2025)
