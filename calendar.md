@@ -12,6 +12,9 @@ nav_order: 2
 ## Part I · Instructor lectures
 {: .part-header }
 
+### Mon Sep 7 · No class
+*Labor Day (university holiday) — first class meets Sep 14.*
+
 ### Mon Sep 14 · Distances between distributions
 Course intro & logistics. Integral probability metrics, Maximum Mean Discrepancy,
 and the Wasserstein-1 distance.
