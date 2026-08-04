@@ -51,52 +51,50 @@ Papers in this part are **presented by students** in the reading group. See
 [Role-play Seminar](reading-group) for how the sessions are organized, the roles,
 and expectations.
 
-### Mon Oct 5 · OT for domain adaptation
-*Papers to present:*
-- [Optimal Transport for Domain Adaptation](https://arxiv.org/abs/1507.00504) (Courty et al., 2017)
-- [DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation](https://arxiv.org/abs/1803.10081) (Damodaran et al., 2018)
-
-### Mon Oct 12 · No class
-*Fall Break (university holiday).*
-
-### Wed Oct 14 · Distributions as objects
-*Legislative Monday — classes meet on a Monday schedule.*
-
+### Mon Oct 5 · Distributions as objects
 *Papers to present:*
 - [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers](https://arxiv.org/abs/2404.09411) (Haviv et al., 2024)
 - [Generative Distribution Embeddings: Lifting Autoencoders to the Space of Distributions](https://arxiv.org/abs/2505.18150) (Fishman et al., 2025)
 
-### Mon Oct 19 · Supervised Monge maps
+### Mon Oct 12 · No class
+*Fall Break (university holiday).*
+
+### Wed Oct 14 · Supervised Monge maps
+*Legislative Monday — classes meet on a Monday schedule.*
+
 *Papers to present:*
 - [Monge Gap](https://arxiv.org/abs/2302.04953) (Uscidda & Cuturi, 2023)
 - [Conditional Monge Gap](https://arxiv.org/abs/2504.08328) (Driessen et al., 2025)
 
-### Mon Oct 26 · Unbalanced OT
-<span class="cal-tag cal-due">Due</span> **Project — preliminary proposal**
-
+### Mon Oct 19 · Unbalanced OT
 *Papers to present:*
 - [Scaling Algorithms for Unbalanced Optimal Transport](https://arxiv.org/abs/1607.05816) (Chizat et al., 2018)
 - [Unbalancedness in Neural Monge Maps](https://arxiv.org/abs/2311.15100) (Eyring et al., 2024)
 
-### Mon Nov 2 · Gromov–Wasserstein
+### Mon Oct 26 · Gromov–Wasserstein
+<span class="cal-tag cal-due">Due</span> **Project — preliminary proposal**
+
 *Papers to present:*
 - [Gromov–Wasserstein Averaging of Kernel and Distance Matrices](https://proceedings.mlr.press/v48/peyre16.html) (Peyré et al., 2016)
 - [Gromov–Wasserstein Alignment of Word Embedding Spaces](https://aclanthology.org/D18-1214/) (Alvarez-Melis & Jaakkola, 2018)
 
-### Mon Nov 9 · OT couplings inside flow matching
+### Mon Nov 2 · OT couplings inside flow matching
 *Papers to present:*
 - [OT-CFM: Conditional Flow Matching with minibatch OT](https://arxiv.org/abs/2302.00482) (Tong et al., 2023)
 - [MMFM: Flow Matching across time and conditions](https://openreview.net/forum?id=hwnObmOTrV) (Rohbeck et al., 2025)
 
-### Mon Nov 16 · Flow matching on structured domains
+### Mon Nov 9 · Flow matching on structured domains
 *Papers to present:*
 - [Riemannian Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) (Chen & Lipman, 2023)
 - [Discrete Flow Matching](https://arxiv.org/abs/2407.15595) (Gat et al., 2024)
 
-### Mon Nov 23 · Few-step flow matching & guidance
+### Mon Nov 16 · Few-step flow matching
 *Papers to present:*
 - [Flow Map Matching](https://arxiv.org/abs/2406.07507) (Boffi et al., 2024)
 - [Mean Flow](https://arxiv.org/abs/2505.13447) (Geng et al., 2025)
+
+### Mon Nov 23 · Guidance
+*Papers to present:*
 - [Guided Flows for Generative Modeling and Decision Making](https://arxiv.org/abs/2311.13443) (Zheng et al., 2023)
 - [CFG-Zero\*: Improved Classifier-Free Guidance](https://arxiv.org/abs/2503.18886) (Fan et al., 2025)
 
