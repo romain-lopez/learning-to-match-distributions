@@ -53,8 +53,11 @@ and expectations.
 - [Optimal Transport for Domain Adaptation](https://arxiv.org/abs/1507.00504) (Courty et al., 2017)
 - [DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation](https://arxiv.org/abs/1803.10081) (Damodaran et al., 2018)
 
+### Mon Oct 12 · No class
+*Fall Break (university holiday).*
+
 ### Wed Oct 14 · Distributions as objects
-*Legislative Day — Monday schedule.*
+*Legislative Monday — classes meet on a Monday schedule.*
 
 *Papers to present:*
 - [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers](https://arxiv.org/abs/2404.09411) (Haviv et al., 2024)
@@ -87,21 +90,21 @@ and expectations.
 - [Riemannian Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) (Chen & Lipman, 2023)
 - [Discrete Flow Matching](https://arxiv.org/abs/2407.15595) (Gat et al., 2024)
 
-### Mon Nov 23 · No class
-*Thanksgiving week.*
-
-### Mon Nov 30 · Few-step flow matching & guidance
+### Mon Nov 23 · Few-step flow matching & guidance
 *Papers to present:*
 - [Flow Map Matching](https://arxiv.org/abs/2406.07507) (Boffi et al., 2024)
 - [Mean Flow](https://arxiv.org/abs/2505.13447) (Geng et al., 2025)
 - [Guided Flows for Generative Modeling and Decision Making](https://arxiv.org/abs/2311.13443) (Zheng et al., 2023)
 - [CFG-Zero\*: Improved Classifier-Free Guidance](https://arxiv.org/abs/2503.18886) (Fan et al., 2025)
 
-### Mon Dec 7 · Applications: single-cell & music
+### Mon Nov 30 · Applications I: single-cell biology
 *Papers to present:*
 - [Optimal-Transport Analysis of Single-Cell Gene Expression / Waddington-OT](https://doi.org/10.1016/j.cell.2019.01.006) (Schiebinger et al., 2019)
 - [GENOT: Generative Entropic Neural Optimal Transport](https://arxiv.org/abs/2310.09254) (Klein et al., 2024)
-- Music generation — *papers TBD*
+
+### Mon Dec 7 · Applications II: music generation
+*Papers to present:*
+- *Papers TBD*
 
 ### Mon Dec 14 · Final project presentations
 <span class="cal-tag cal-due">Due</span> **Final project** — report & presentation

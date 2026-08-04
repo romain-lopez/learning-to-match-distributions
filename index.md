@@ -25,7 +25,7 @@ This class develops the mathematical machinery for exactly these three operation
   <div class="staff-info">
     <a class="staff-name" href="https://romain-lopez.github.io">Romain Lopez</a>
     <span class="staff-meta">Email: romain.lopez@nyu.edu</span>
-    <span class="staff-meta">Office Hours: TBD</span>
+    <span class="staff-meta">Office Hours: Mondays, 3:30–4:30 PM, 60 Fifth Avenue, Office 304</span>
   </div>
 </div>
 
@@ -50,8 +50,8 @@ lectures to offer a broad overview and context. Following this, the class will
 seamlessly shift to student-led presentations and panel discussions, utilizing
 Alec Jacobson and Colin Raffel's [role-play](https://colinraffel.com/blog/role-playing-seminar.html) seminar approach.
 
-**Communication**: We will use [Discord](https://discord.com) to facilitate discussion. The instructor will provide the
-link during the first class.
+**Communication**: We will use [Discord](https://discord.com) to facilitate discussion. You can find the
+invite link on [Brightspace](https://brightspace.nyu.edu).
 
 ---
 
