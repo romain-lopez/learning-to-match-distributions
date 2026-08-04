@@ -66,10 +66,10 @@ and expectations.
 - [Gromov–Wasserstein Averaging of Kernel and Distance Matrices](https://proceedings.mlr.press/v48/peyre16.html) (Peyré et al., 2016)
 - [CO-Optimal Transport](https://arxiv.org/abs/2002.03731) (Redko et al., 2020)
 
-### Mon Oct 19 · Amortizing maps and flows over distributions
+### Mon Oct 19 · Conditional generation and guidance
 *Papers to present:*
-- [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers](https://arxiv.org/abs/2404.09411) (Haviv et al., 2024)
-- [Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold](https://arxiv.org/abs/2408.14608) (Atanackovic et al., 2025)
+- [Guided Flows for Generative Modeling and Decision Making](https://arxiv.org/abs/2311.13443) (Zheng et al., 2023)
+- [CFG-Zero\*: Improved Classifier-Free Guidance](https://arxiv.org/abs/2503.18886) (Fan et al., 2025)
 
 ### Mon Oct 26 · Flow matching on structured domains
 <span class="cal-tag cal-due">Due</span> **Project — preliminary proposal**
@@ -78,10 +78,10 @@ and expectations.
 - [Riemannian Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) (Chen & Lipman, 2023)
 - [Discrete Flow Matching](https://arxiv.org/abs/2407.15595) (Gat et al., 2024)
 
-### Mon Nov 2 · Conditional generation and guidance
+### Mon Nov 2 · Amortizing maps and flows over distributions
 *Papers to present:*
-- [Guided Flows for Generative Modeling and Decision Making](https://arxiv.org/abs/2311.13443) (Zheng et al., 2023)
-- [CFG-Zero\*: Improved Classifier-Free Guidance](https://arxiv.org/abs/2503.18886) (Fan et al., 2025)
+- [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers](https://arxiv.org/abs/2404.09411) (Haviv et al., 2024)
+- [Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold](https://arxiv.org/abs/2408.14608) (Atanackovic et al., 2025)
 
 ### Mon Nov 9 · Fast sampling from flow-matching models
 *Papers to present:*
