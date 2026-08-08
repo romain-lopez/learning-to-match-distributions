@@ -40,17 +40,18 @@ html {
 
 // Calendar styling — h3 session headers only appear on the Calendar page.
 .main-content {
-  // "Part I / Part II" section headers
+  // Section headings. Generous top margin does the separating; an underline
+  // on every heading puts a line across the page several times per screen.
   h2 {
     margin-top: 2.4rem;
-    padding-bottom: 0.3rem;
-    border-bottom: 1px solid #eceaf5;
   }
 
-  // Calendar Part headers in blue, to separate them from the purple sessions
+  // Calendar Part headers keep a rule: Part I vs Part II is a real structural
+  // break, and the blue distinguishes them from the purple session bars.
   h2.part-header {
     color: #2563eb;
-    border-bottom-color: #cfe0fb;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid #cfe0fb;
   }
 
   // Individual session headers: filled bar so each class starts distinctly
