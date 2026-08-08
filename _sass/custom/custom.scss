@@ -98,3 +98,20 @@ html {
 }
 .cal-release { background: #e3f3e6; color: #1f7a37; } // green
 .cal-due     { background: #fde6e6; color: #b3261e; } // red
+
+// Deliverable callouts: lift Released / Due lines out of the body text so
+// deadlines are visible when skimming. Green and red left rules distinguish
+// them from the purple rule on the session headers above.
+.main-content .cal-item {
+  margin: 0.85rem 0;
+  padding: 0.5rem 0.8rem;
+  border-radius: 0 6px 6px 0;
+}
+.main-content .cal-item-release {
+  background: #f2faf4;
+  border-left: 4px solid #2f9e4f;
+}
+.main-content .cal-item-due {
+  background: #fdf3f2;
+  border-left: 4px solid #d93b30;
+}

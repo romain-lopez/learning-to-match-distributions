@@ -19,16 +19,18 @@ nav_order: 2
 Course intro & logistics. Historical views and main results. Overview of recent advances in the field.
 
 <span class="cal-tag cal-release">Released</span> [**Preparatory homework**](homework) (10% of the grade)
+{: .cal-item .cal-item-release }
 
 *Background reading & Reference texts for the course.* These are the two reference documents for the field. 
 - [Computational Optimal Transport](https://arxiv.org/abs/1803.00567) — §1–2
-- [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf)  §1–2
+- [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf) — §1–2
 
 ### Mon Sep 21 · Duality
 *Whiteboard session*
 The Kantorovich linear program and its dual, strong duality, and the Kantorovich–Rubinstein theorem.  Entropic regularization and the Sinkhorn algorithm.
 
 <span class="cal-tag cal-due">Due</span> [**Preparatory homework**](homework) — at the start of class
+{: .cal-item .cal-item-due }
 
 *Background reading:*
 - [Computational Optimal Transport](https://arxiv.org/abs/1803.00567) — §3–4
@@ -39,7 +41,8 @@ Flows of vector fields and the continuity equation; dynamic optimal transport an
 
 *Background reading:*
 - [Computational Optimal Transport](https://arxiv.org/abs/1803.00567) — §7
-- [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf)  §3,§5,§6
+- [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf) — §3,§5,§6
+
 ---
 
 ## Part II · Reading group
@@ -71,6 +74,7 @@ and expectations.
 
 ### Mon Oct 26 · Flow matching on structured domains
 <span class="cal-tag cal-due">Due</span> **Project — preliminary proposal**
+{: .cal-item .cal-item-due }
 
 *Papers to present:*
 - [Riemannian Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) (Chen & Lipman, 2023)
@@ -108,5 +112,6 @@ and expectations.
 
 ### Mon Dec 14 · Final project presentations
 <span class="cal-tag cal-due">Due</span> **Final project** — report & presentation
+{: .cal-item .cal-item-due }
 
 *Last day of classes (possibly remote).* See [Project Logistics](project).

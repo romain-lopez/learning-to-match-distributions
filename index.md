@@ -61,28 +61,12 @@ The [Calendar](calendar) will be regularly updated with the full week-by-week sc
 
 ---
 
-## Preparatory Homework
-
-A problem set released at the first class (Mon Sep 14) and due at the start of the
-second (Mon Sep 21). It covers the mathematical background the lectures assume —
-conditional expectation, pushforward measures, the continuity equation, linear
-programming duality, and convexity — and every exercise reappears later in the course.
-
-It is worth **10% of the final grade**, and points are awarded for a genuine attempt
-rather than for a correct answer. A well-prepared student should finish in about two
-hours; being unable to complete most of it is a signal that this course may not be a
-good match. Solutions are released after the deadline.
-
-See the [Preparatory Homework](homework) page for the problem set and full details.
-
----
-
 ## Grading
 
 Grading will be based on:
 1. Semester-long project (60%): an application/demo or a research project, in teams of 1–4. See the [Project Logistics](project) page for options, milestones, and deadlines.
-2. Preparatory homework (10%): a problem set on the mathematical background, released at the first class and due Sep 21. Graded on a genuine attempt rather than on correct answers. See the [Preparatory Homework](homework) page.
-3. Paper presentation & panel participation (30%): Each student signs up to present papers and take on reading-group roles; graded on presentations and live panel participation (no written reviews). See the [Role-play Seminar](reading-group) page to learn more about the format.
+2. Paper presentation & panel participation (30%): Each student signs up to present papers and take on reading-group roles; graded on presentations and live panel participation (no written reviews). See the [Role-play Seminar](reading-group) page to learn more about the format.
+3. Preparatory homework (10%): a problem set on the mathematical background, released at the first class and due Sep 21. Graded on a genuine attempt rather than on correct answers. See the [Preparatory Homework](homework) page.
 
 ---
 
