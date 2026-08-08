@@ -19,8 +19,6 @@ chance to go deep on one corner of the course material.
 1. TOC
 {:toc}
 
----
-
 ## Options
 
 You may choose one of two tracks:
@@ -30,16 +28,12 @@ You may choose one of two tracks:
 - **Research** — pursue a focused research question: a new method, an analysis,
   or an empirical study. Negative results, clearly explained, are welcome.
 
----
-
 ## Logistics
 
 - **Teams** of **1–4** students.
 - The project runs the full semester, with a small number of milestones (below)
   and a final presentation on the last day of class.
 - Deliverables: a short written report and a final in-class presentation.
-
----
 
 ## Milestones
 
@@ -49,8 +43,6 @@ You may choose one of two tracks:
 | Milestone check-in | **TBD** | Brief progress update. |
 | Final report | **TBD** | Short paper-style writeup. |
 | Final presentation | **Mon Dec 14** | In class (possibly remote). |
-
----
 
 ## Submission & late policy
 

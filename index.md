@@ -16,8 +16,6 @@ In a growing range of problems across statistics and machine learning, the objec
 
 This class develops the mathematical machinery for exactly these three operations — measuring distances between distributions, learning maps that optimally move one onto another, and constructing flows that interpolate between them — alongside the statistical machine learning approaches (MMD, optimal transport, flow matching) that make them practical at scale. It also aims to arm students with the essential practical skills required to do further research in this rapidly evolving field.
 
----
-
 ## Instructor
 
 <div class="staff-card">
@@ -29,16 +27,12 @@ This class develops the mathematical machinery for exactly these three operation
   </div>
 </div>
 
----
-
 ## Prerequisites
 
 Students should have a **graduate-level machine learning** background plus
 solid **probability and statistics** (at the level of Fernández-Granda's
 [*Probability and Statistics for Data Science*](https://www.ps4ds.net/), 2024). Comfort with Python and
 basic deep-learning tooling is expected for the project and demos.
-
----
 
 ## Logistics
 
@@ -53,13 +47,9 @@ Alec Jacobson and Colin Raffel's [role-play](https://colinraffel.com/blog/role-p
 **Communication**: We will use [Discord](https://discord.com) to facilitate discussion. You can find the
 invite link on [Brightspace](https://brightspace.nyu.edu).
 
----
-
 ## Course Schedule
 
 The [Calendar](calendar) will be regularly updated with the full week-by-week schedule, readings and topics.
-
----
 
 ## Grading
 
@@ -67,8 +57,6 @@ Grading will be based on:
 1. Semester-long project (60%): an application/demo or a research project, in teams of 1–4. See the [Project Logistics](project) page for options, milestones, and deadlines.
 2. Paper presentation & panel participation (30%): Each student signs up to present papers and take on reading-group roles; graded on presentations and live panel participation (no written reviews). See the [Role-play Seminar](reading-group) page to learn more about the format.
 3. Preparatory homework (10%): a problem set on the mathematical background, released at the first class and due Sep 21. Graded on a genuine attempt rather than on correct answers. See the [Preparatory Homework](homework) page.
-
----
 
 ## Collaboration and Use of AI
 

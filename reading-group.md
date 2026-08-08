@@ -18,16 +18,12 @@ instructor moderates a debate and ties the work to its broader context.
 1. TOC
 {:toc}
 
----
-
 ## Roles
 
 - **Author** — presents the paper and makes its strongest case.
 - **Skeptic** — prepares the sharpest rebuttal and the open questions.
 - **Archaeologist** — situates the paper in its intellectual lineage (predecessors → successors).
 - **Hacker** — brings a small live demo or reproduction.
-
----
 
 ## Run-of-show (120 minutes)
 
@@ -40,14 +36,10 @@ instructor moderates a debate and ties the work to its broader context.
 | 1:40–1:55 | Open floor + instructor synthesis |
 | 1:55–2:00 | Wrap |
 
----
-
 ## Sign-up
 
 > **TBD** — the paper sign-up process (how you choose your session, paper, and
 > role) will be announced and run at the start of the semester.
-
----
 
 ## Expectations
 
@@ -57,8 +49,6 @@ instructor moderates a debate and ties the work to its broader context.
 - The reading-group component is **presentation + live panel participation** —
   there are no separate written paper reviews. All students are expected to come
   having read the assigned papers and ready to contribute to the discussion.
-
----
 
 ## Grading (30%)
 
