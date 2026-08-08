@@ -15,33 +15,31 @@ nav_order: 2
 ### Mon Sep 7 · No class
 *Labor Day (university holiday) — first class meets Sep 14.*
 
-### Mon Sep 14 · Distances between distributions
-Course intro & logistics. Integral probability metrics, Maximum Mean Discrepancy,
-and the Wasserstein-1 distance.
+### Mon Sep 14 · Tour of Optimal Transport and Flow Matching
+Course intro & logistics. Historical views and main results. Overview of recent advances in the field.
 
-<span class="cal-tag cal-release">Released</span> **Welcome assignment**
+<span class="cal-tag cal-release">Released</span> [**Preparatory homework**](homework) (10% of the grade)
 
-*Background reading:*
-- [A Kernel Two-Sample Test](https://jmlr.org/papers/v13/gretton12a.html) (Gretton et al., 2012)
-- [Generative Moment Matching Networks](https://arxiv.org/abs/1502.02761) (Li et al., 2015)
+*Background reading & Reference texts for the course.* These are the two reference documents for the field. 
+- [Computational Optimal Transport](https://arxiv.org/abs/1803.00567) — §1–2
+- [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf)  §1–2
 
-### Mon Sep 21 · Coupling distributions
-Monge vs. Kantorovich, entropic regularization & Sinkhorn, and Brenier's theorem.
+### Mon Sep 21 · Duality
+*Whiteboard session*
+The Kantorovich linear program and its dual, strong duality, and the Kantorovich–Rubinstein theorem.  Entropic regularization and the Sinkhorn algorithm.
 
-<span class="cal-tag cal-due">Due</span> **Welcome assignment**
-
-*Background reading:*
-- [Sinkhorn Distances](https://arxiv.org/abs/1306.0895) (Cuturi, 2013)
-- [Interpolating between Optimal Transport and MMD using Sinkhorn Divergences](https://arxiv.org/abs/1810.08278) (Feydy et al., 2019)
-
-### Mon Sep 28 · Interpolating between distributions
-Dynamic OT / Benamou–Brenier, Wasserstein barycenters, and continuous normalizing
-flows → flow matching.
+<span class="cal-tag cal-due">Due</span> [**Preparatory homework**](homework) — at the start of class
 
 *Background reading:*
-- [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) (Chen et al., 2018)
-- [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747) (Lipman et al., 2023)
+- [Computational Optimal Transport](https://arxiv.org/abs/1803.00567) — §3–4
 
+### Mon Sep 28 · A dynamic view on distribution morphing
+*Whiteboard session*
+Flows of vector fields and the continuity equation; dynamic optimal transport and the Benamou–Brenier formulation. Flow models, conditional probability paths, the marginalization trick, and the flow matching objective.
+
+*Background reading:*
+- [Computational Optimal Transport](https://arxiv.org/abs/1803.00567) — §7
+- [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf)  §3,§5,§6
 ---
 
 ## Part II · Reading group

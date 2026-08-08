@@ -1,0 +1,71 @@
+---
+title: Preparatory Homework
+layout: default
+nav_order: 3
+---
+
+# Preparatory Homework
+{: .no_toc }
+
+[Download the problem set (PDF)]({{ '/assets/preparatory-homework.pdf' | relative_url }}){: .btn .btn-primary }
+
+1. TOC
+{:toc}
+
+---
+
+## Dates
+
+- **Released** — Mon Sep 14, at the first class
+- **Due** — Mon Sep 21, at the start of class
+- **Solutions** — released after the deadline
+
+---
+
+## What it covers
+
+The mathematical background the lectures assume. Every exercise reappears later in
+the course, so working through it now means meeting each idea for the second time
+rather than the first.
+
+| # | Exercise | Points |
+|---|---|---|
+| 1 | Least squares recovers the conditional mean | 25 |
+| 2 | Pushforward and change of variables | 15 |
+| 3 | The continuity equation | 20 |
+| 4 | Linear programming duality | 25 |
+| 5 | Convexity | 15 |
+| — | *Bonus (optional, ungraded)* | — |
+
+A well-prepared student should finish in about two hours. Spending longer on a
+single exercise to make up some background (e.g. convex optimization) is perfectly
+fine. Being unable to complete most of the homework, on the other hand, is a signal
+that this course may not be a good match.
+
+---
+
+## Grading
+
+Worth **10% of the final grade**. Each part is worth the points marked beside it,
+100 in total, and those points are awarded for **a genuine attempt** rather than for
+a correct answer — a blank or a one-line non-answer earns nothing. The bonus problem
+is not graded at all.
+
+---
+
+## Submission
+
+Submit a single PDF on [Brightspace](https://brightspace.nyu.edu) by the start of
+class on Mon Sep 21. Typesetting in LaTeX is encouraged; a legible scan of
+handwritten work is also accepted.
+
+---
+
+## Collaboration and AI
+
+You may discuss these problems with other students, and you may use AI assistants.
+Disclose both — a line at the top naming who you worked with and how you used any
+assistant is enough. Nothing prevents you from having one write your answers, but
+the preparation is the entire point, and you would be skipping it. Looking up a
+definition from convex analysis or multivariate calculus is ordinary and expected;
+outsourcing the reasoning is not.
