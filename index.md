@@ -14,7 +14,7 @@ nav_order: 1
 
 In a growing range of problems across statistics and machine learning, the object of interest is not a single data point but an entire distribution. A patient is summarized by the cloud of their single cells; an experimental condition by the population of measurements it produces; a generative model by its output distribution. Once distributions become the primary entity, a few basic questions come to mind: How far apart are two distributions? How do we transform one into another? What lies on the path between them?
 
-This class develops the mathematical machinery for exactly these three operations — measuring distances between distributions, learning maps that optimally move one onto another, and constructing flows that interpolate between them — alongside the statistical machine learning approaches (MMD, optimal transport, flow matching) that make them practical at scale. It also aims to arm students with the essential practical skills required to do further research in this rapidly evolving field.
+This class develops the mathematical machinery for exactly these three operations — measuring distances between distributions, learning maps that optimally move one onto another, and constructing flows that interpolate between them — alongside the statistical machine learning approaches (optimal transport, flow matching) that make them practical at scale. It also aims to arm students with the essential practical skills required to do further research in this rapidly evolving field.
 
 ## Instructor
 
