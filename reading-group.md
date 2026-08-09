@@ -25,17 +25,15 @@ Whatever the role, prepare to talk about the paper for roughly **8 minutes** —
 ten slides.
 
 🔬 **Scientific Peer Reviewer**
-: Treat the paper as unpublished and currently under submission to the top venue in
-this area, with you assigned as one of its reviewers. Complete a full review answering
-the prompts on that venue's official review form — NeurIPS, ICML, and ICLR all publish
-theirs — and commit to a recommendation to accept or reject.
-: A strong review does three things: it summarizes the problem, the contribution, and
-why it matters; it states strengths and weaknesses plainly, including what most needs
-improvement; and it checks for fundamental flaws — are the assumptions sound, do the
-experiments support the claims, is prior work properly credited? Ground every
-assertion. "This isn't novel" needs a citation; "this isn't interesting" needs a
-reason; "the authors should have" needs to be something they could actually have done.
-In class, walk us through your review and put your questions to the room.
+: Treat the paper as unpublished and currently under submission to a top venue in this
+area, with you assigned as one of its reviewers. Complete a full review following the
+[NeurIPS reviewer guidelines](https://neurips.cc/Conferences/2025/ReviewerGuidelines),
+and commit to a recommendation to accept or reject. A strong review does three things:
+it summarizes the problem, the contribution, and why it matters; it states strengths
+and weaknesses plainly, including what most needs improvement; and it checks for
+fundamental flaws — are the assumptions sound, do the experiments support the claims,
+is prior work properly credited? In class, walk us through your review and put your
+questions to the room.
 
 🏺 **Archaeologist**
 : This paper was found buried underground in the desert. You are the archaeologist who
