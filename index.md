@@ -10,8 +10,6 @@ nav_order: 1
 **CSCI-GA 3033-148** · New York University · Fall 2026
 {: .fs-5 .text-grey-dk-000 }
 
-{% include wip.html %}
-
 In a growing range of problems across statistics and machine learning, the object of interest is not a single data point but an entire distribution. A patient is summarized by the cloud of their single cells; an experimental condition by the population of measurements it produces; a generative model by its output distribution. Once distributions become the primary entity, a few basic questions come to mind: How far apart are two distributions? How do we transform one into another? What lies on the path between them?
 
 This class develops the mathematical machinery for exactly these three operations — measuring distances between distributions, learning maps that optimally move one onto another, and constructing flows that interpolate between them — alongside the statistical machine learning approaches (optimal transport, flow matching) that make them practical at scale. It also aims to arm students with the essential practical skills required to do further research in this rapidly evolving field.
@@ -54,7 +52,7 @@ The [Calendar](calendar) will be regularly updated with the full week-by-week sc
 ## Grading
 
 Grading will be based on:
-1. Semester-long project (60%): anything that builds upon or applies optimal transport or flow matching, in teams of 2–4, presented as a poster with a four-page write-up. See the [Project Logistics](project) page for requirements, milestones, and deadlines.
+1. Semester-long project (60%): anything that builds upon or applies optimal transport or flow matching, in teams of 2–4, with a four-page write-up presented in the final session. See the [Project Logistics](project) page for requirements, milestones, and deadlines.
 2. Paper presentation & panel participation (30%): Each student signs up to present papers and take on reading-group roles; graded on presentations and live panel participation (no written reviews). See the [Role-play Seminar](reading-group) page to learn more about the format.
 3. Preparatory homework (10%): a problem set on the mathematical background, released at the first class and due Sep 21. Graded on a genuine attempt rather than on correct answers. See the [Preparatory Homework](homework) page.
 

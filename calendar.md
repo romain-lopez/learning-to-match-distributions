@@ -7,8 +7,6 @@ nav_order: 2
 # Calendar
 {: .no_toc }
 
-{% include wip.html %}
-
 ## Part I · Instructor lectures
 {: .part-header }
 
@@ -110,8 +108,8 @@ and expectations.
 - [MusicFlow: Cascaded Flow Matching for Text Guided Music Generation](https://arxiv.org/abs/2410.20478) (Prajwal et al., 2024)
 - [Auto-Regressive vs Flow-Matching: a Comparative Study of Modeling Paradigms for Text-to-Music Generation](https://arxiv.org/abs/2506.08570) (Tal et al., 2025)
 
-### Mon Dec 14 · Final poster session
-<span class="cal-tag cal-due">Due</span> **Final project** — write-up & poster
+### Mon Dec 14 · Final project session
+<span class="cal-tag cal-due">Due</span> **Final project** — write-up & presentation
 {: .cal-item .cal-item-due }
 
 *Last day of classes.* See [Project Logistics](project).
