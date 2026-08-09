@@ -7,13 +7,12 @@ nav_order: 4
 # Role-play Seminar
 {: .no_toc }
 
-{% include wip.html %}
-
 After the opening instructor lectures, the class shifts to student-led
 presentations and panel discussions, following Alec Jacobson and Colin Raffel's
 [role-play seminar approach](https://colinraffel.com/blog/role-playing-seminar.html).
-Each session, students take on distinct roles for the assigned papers, and the
-instructor moderates a debate and ties the work to its broader context.
+Each session covers two papers, listed on the [Calendar](calendar); students take on
+distinct roles for each, and the instructor moderates a debate and ties the work to its
+broader context.
 
 ## Roles
 
@@ -64,13 +63,6 @@ follow-up project — not merely one that builds on this paper, but one that is 
 *possible* because this paper exists and succeeded. Keyword: imaginary. No idea is a
 bad idea in brainstorming. Bring in your own background here.
 
-## Sign-up
-
-Sign-up runs on a shared spreadsheet linked from
-[Brightspace](https://brightspace.nyu.edu). You claim a paper and a role by adding your
-name to it; each paper takes four sign-ups, one per role. The sheet opens at the start
-of the semester and the deadline is announced with it.
-
 ## Expectations
 
 - Every student presents **around four times** during the semester. With 20 papers
@@ -79,6 +71,16 @@ of the semester and the deadline is announced with it.
 - Presenters prepare slides and, where the role calls for it, a short demo.
 - All students are expected to come having read the assigned papers and ready to
   contribute to the discussion.
+
+## Logistics
+
+- **Sign-up.** Claim a paper and a role by adding your name to the shared spreadsheet
+  linked from [Brightspace](https://brightspace.nyu.edu). Each paper takes four
+  sign-ups, one per role. The sheet opens at the start of the semester and the deadline
+  is announced with it.
+- **Uploading your material.** Slides — and a notebook, if your role calls for one —
+  are due by **11 AM on the day of the class**. Guidance on where to upload them will
+  be provided.
 
 ## Grading (30%)
 
