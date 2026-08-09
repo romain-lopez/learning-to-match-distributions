@@ -46,8 +46,8 @@ show the numbers, and explain what you learned. That is a good project.
 
 ## Teams
 
-**Teams of 2–4 students.** Include a short contribution statement in the write-up
-saying who did what.
+**Teams of 2–4 students.** Include a short contribution statement in the appendix of
+the write-up saying who did what.
 
 ## Milestones
 
@@ -58,5 +58,5 @@ saying who did what.
 
 ## Submission
 
-> **TBD** — the submission mechanism will be announced with the full project
-> description at the start of the semester.
+Submit the proposal and the final write-up as PDFs on
+[Brightspace](https://brightspace.nyu.edu).
