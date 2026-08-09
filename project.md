@@ -44,6 +44,10 @@ show the numbers, and explain what you learned. That is a good project.
   the [NeurIPS LaTeX format](https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip),
   not counting references.
 
+You may add appendices with further details if you need them, and the contribution
+statement does not count towards the page limit either. The goal, though, is that a
+reader understands what you did and why it matters from the four pages alone.
+
 ## Teams
 
 **Teams of 2–4 students.** Include a short contribution statement in the appendix of
