@@ -15,25 +15,65 @@ presentations and panel discussions, following Alec Jacobson and Colin Raffel's
 Each session, students take on distinct roles for the assigned papers, and the
 instructor moderates a debate and ties the work to its broader context.
 
-1. TOC
-{:toc}
-
 ## Roles
 
-- **Author** — presents the paper and makes its strongest case.
-- **Skeptic** — prepares the sharpest rebuttal and the open questions.
-- **Archaeologist** — situates the paper in its intellectual lineage (predecessors → successors).
-- **Hacker** — brings a small live demo or reproduction.
+Every paper is covered by **four students**, each taking a different role from the five
+below. You choose which role you take when you sign up, so the mix of perspectives
+changes from paper to paper.
+
+Whatever the role, prepare to talk about the paper for roughly **8 minutes** — about
+ten slides.
+
+**Scientific Peer Reviewer**
+: Treat the paper as unpublished and currently under submission to the top venue in
+this area, with you assigned as one of its reviewers. Complete a full review answering
+the prompts on that venue's official review form — NeurIPS, ICML, and ICLR all publish
+theirs — and commit to a recommendation to accept or reject.
+: A strong review does three things: it summarizes the problem, the contribution, and
+why it matters; it states strengths and weaknesses plainly, including what most needs
+improvement; and it checks for fundamental flaws — are the assumptions sound, do the
+experiments support the claims, is prior work properly credited? Ground every
+assertion. "This isn't novel" needs a citation; "this isn't interesting" needs a
+reason; "the authors should have" needs to be something they could actually have done.
+In class, walk us through your review and put your questions to the room.
+
+**Archaeologist**
+: This paper was found buried underground in the desert. You are the archaeologist who
+must work out where it sits in the context of previous and subsequent work. Find and
+report on one older paper, cited by this one, that substantially influenced it, and one
+newer paper that cites this one. Then step back: why did this paper happen when and
+where it did, and did the field take the idea up the way the authors intended, or
+repurpose it for something else?
+
+**Data Analyst**
+: Talk about the datasets, the curation, the benchmarks, and the metrics. Be as
+specific as possible and hunt for the little details that matter. Don't expect full
+answers from the paper — investigate and research. If a method is only ever
+demonstrated on synthetic two-dimensional examples, say so and explain what that does
+and does not establish.
+
+**Hacker**
+: Talk about how to implement the algorithm. Study the open-source repositories and
+tell us the status quo: officially released (training, inference, or both?), community
+replication, work in progress, or nothing at all. Dig into the implementation details
+that decide whether it works — how the data is batched, how the loss is really
+computed, how much compute a realistic run takes. Best form of presentation: a Colab
+notebook.
+
+**Academic Researcher**
+: You are a researcher starting a new project in this area. Propose an imaginary
+follow-up project — not merely one that builds on this paper, but one that is only
+*possible* because this paper exists and succeeded. Keyword: imaginary. No idea is a
+bad idea in brainstorming. Bring in your own background here.
 
 ## Run-of-show (120 minutes)
 
 | Time | Segment |
 |------|---------|
-| 0:00–0:10 | Settle + rapid ice-breaker |
-| 0:10–0:50 | **Paper 1** — Author pitch → Skeptic rebuttal → instructor-driven debate → Hacker 1 demo |
-| 0:50–1:30 | **Paper 2** — leaner: Author / Skeptic → Hacker 2 demo |
-| 1:30–1:40 | **Archaeologist** ties the lineage together |
-| 1:40–1:55 | Open floor + instructor synthesis |
+| 0:00–0:05 | Settle |
+| 0:05–0:55 | **Paper 1** — four panelists (~8 min each) → instructor-driven debate |
+| 0:55–1:45 | **Paper 2** — same structure |
+| 1:45–1:55 | Open floor + instructor synthesis |
 | 1:55–2:00 | Wrap |
 
 ## Sign-up
