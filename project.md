@@ -12,39 +12,59 @@ nav_order: 5
 The semester-long project is the largest component of the grade (60%). It is your
 chance to go deep on one corner of the course material.
 
-> **Note:** the structure, team sizes, and deadlines below are working defaults
-> adapted from a comparable NYU seminar and will be finalized before the first
-> class. Dates marked **TBD** will be set against the Fall 2026 calendar.
+## Scope
 
-1. TOC
-{:toc}
+Anything that builds upon or applies optimal transport or flow matching. That is a
+wide door on purpose — the method can come from the lectures, from a paper on the
+reading list, or from somewhere else entirely, and the application can be to any
+domain you care about.
 
-## Options
+What matters is not the topic but that you have a real question and go after it
+properly.
 
-You may choose one of two tracks:
+## What your project has to do
 
-- **Application / demo** — build something that uses one of the methods from the
-  course on a real (or realistic) dataset or task, and report what you learned.
-- **Research** — pursue a focused research question: a new method, an analysis,
-  or an empirical study. Negative results, clearly explained, are welcome.
+These six things. They are also, not by accident, the structure of a conference review
+form — the one you will each have worked through as Scientific Peer Reviewer during
+the semester.
 
-## Logistics
+1. **Ask an interesting question.** State it plainly and early.
+2. **Position it.** How novel is this question? It does not have to be novel at all,
+   but you do have to know, and you have to map your question to the closest existing
+   literature.
+3. **Describe how you will answer it** — either with a tool you propose, or by
+   applying something that already exists.
+4. **Evaluate how well it works, with actual numbers.**
+5. **Compare against baselines.** A result with nothing to compare it to is not an
+   evaluation. If your project has no natural baseline, that is a problem with the
+   project design, and the proposal is the time to fix it.
+6. **State the limitations** of what you did, and what you would do next.
 
-- **Teams** of **1–4** students.
-- The project runs the full semester, with a small number of milestones (below)
-  and a final presentation on the last day of class.
-- Deliverables: a short written report and a final in-class presentation.
+Negative results are fine. Sometimes a project does not work out — say so clearly,
+show the numbers, and explain what you learned. That is a good project.
+
+## Deliverables
+
+- **A poster**, presented in the final session.
+- **A four-page write-up**, excluding references.
+
+Four pages is a hard cap, and it is the point rather than a convenience: deciding what
+to leave out is the harder skill, and it is the one worth practising.
+
+## Teams
+
+**Teams of 2–4 students.** Solo projects are not accepted.
+
+Include a short contribution statement in the write-up saying who did what.
 
 ## Milestones
 
 | Milestone | Due | Notes |
 |---|---|---|
-| Team & topic proposal | **TBD** | One paragraph: who, what, why. |
-| Milestone check-in | **TBD** | Brief progress update. |
-| Final report | **TBD** | Short paper-style writeup. |
-| Final presentation | **Mon Dec 14** | In class (possibly remote). |
+| Proposal | **Mon Oct 26** | One page, showing you have a plan that gets you to the final report. |
+| Write-up & poster session | **Mon Dec 14** | In the final class. |
 
 ## Submission & late policy
 
-> **TBD** — submission mechanism and a grace-day / late policy will be announced
-> with the project description at the start of the semester.
+> **TBD** — the submission mechanism and a grace-day / late policy will be announced
+> with the full project description at the start of the semester.
