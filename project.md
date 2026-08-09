@@ -13,7 +13,7 @@ chance to go deep on one corner of the course material.
 ## Scope
 
 Anything that builds upon or applies optimal transport or flow matching — extending a
-method to a new problem, say, or applying an existing method to new data. The method
+method to a new problem, or applying an existing method to new data. The method
 can come from the lectures, from a paper on the reading list, or from somewhere else
 entirely, and the application can be to any domain you care about. What matters is not
 the topic but that you have a real question and go after it properly.
