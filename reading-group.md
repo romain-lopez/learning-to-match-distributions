@@ -77,8 +77,7 @@ of the semester and the deadline is announced with it.
   and four roles for each, there are 80 panel slots to spread across the class; the
   exact count per student is confirmed once sign-up closes.
 - Presenters prepare slides and, where the role calls for it, a short demo.
-- The reading-group component is **presentation + live panel participation**. All
-  students are expected to come having read the assigned papers and ready to
+- All students are expected to come having read the assigned papers and ready to
   contribute to the discussion.
 
 ## Grading (30%)
