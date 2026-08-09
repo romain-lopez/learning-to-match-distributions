@@ -64,34 +64,25 @@ follow-up project — not merely one that builds on this paper, but one that is 
 *possible* because this paper exists and succeeded. Keyword: imaginary. No idea is a
 bad idea in brainstorming. Bring in your own background here.
 
-## Run-of-show (120 minutes)
-
-| Time | Segment |
-|------|---------|
-| 0:00–0:05 | Settle |
-| 0:05–0:55 | **Paper 1** — four panelists (~8 min each) → instructor-driven debate |
-| 0:55–1:45 | **Paper 2** — same structure |
-| 1:45–1:55 | Open floor + instructor synthesis |
-| 1:55–2:00 | Wrap |
-
 ## Sign-up
 
-> **TBD** — the paper sign-up process (how you choose your session, paper, and
-> role) will be announced and run at the start of the semester.
+Sign-up runs on a shared spreadsheet linked from
+[Brightspace](https://brightspace.nyu.edu). You claim a paper and a role by adding your
+name to it; each paper takes four sign-ups, one per role. The sheet opens at the start
+of the semester and the deadline is announced with it.
 
 ## Expectations
 
-- Every student presents **at least once** during the semester. The exact number
-  of presentations per student depends on enrollment and is set after sign-up.
+- Every student presents **around four times** during the semester. With 20 papers
+  and four roles for each, there are 80 panel slots to spread across the class; the
+  exact count per student is confirmed once sign-up closes.
 - Presenters prepare slides and, where the role calls for it, a short demo.
-- The reading-group component is **presentation + live panel participation** —
-  there are no separate written paper reviews. All students are expected to come
-  having read the assigned papers and ready to contribute to the discussion.
+- The reading-group component is **presentation + live panel participation**. All
+  students are expected to come having read the assigned papers and ready to
+  contribute to the discussion.
 
 ## Grading (30%)
 
-Reading-group participation is worth **30%** of the course grade, covering both
-your role-play presentations and your contributions to the panel discussions.
-
-> **Rubric: TBD** — a more detailed rubric for presentations and participation
-> will be shared before the first student-led session.
+Most of this comes from your four panel appearances. Each is graded on whether you took
+the role seriously, engaged with the paper in depth, and brought the room something it
+could not have gotten from reading the abstract.
