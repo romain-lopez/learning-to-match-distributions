@@ -14,7 +14,8 @@ nav_order: 3
 
 This homework was conceived to refresh the student on basic concepts we will use in
 the course, so working through it now means meeting each idea for the second time
-rather than the first. A well-prepared student should finish in about two hours.
+rather than the first. A well-prepared student should spend under an hour on each
+of the five exercises.
 Spending longer on a single exercise to make up some background (e.g. convex
 optimization) is perfectly fine. Being unable to complete most of the homework, on
 the other hand, is a signal that this course may not be a good match.
