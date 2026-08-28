@@ -19,7 +19,7 @@ Course intro & logistics. Historical views and main results. Overview of recent 
 <span class="cal-tag cal-release">Released</span> [**Preparatory homework**](homework) (10% of the grade)
 {: .cal-item .cal-item-release }
 
-*Background reading & Reference texts for the course.* These are the two reference documents for the field. 
+*Background reading.* These are the two reference documents for the field.
 - [Computational Optimal Transport](https://arxiv.org/abs/1803.00567) — §1–2
 - [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf) — §1–2
 
