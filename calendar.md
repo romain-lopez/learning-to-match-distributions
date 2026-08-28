@@ -16,22 +16,22 @@ nav_order: 2
 ### Mon Sep 14 · Tour of Optimal Transport and Flow Matching
 Course intro & logistics. Historical views and main results. Overview of recent advances in the field.
 
-<span class="cal-tag cal-release">Released</span> [**Preparatory homework**](homework) (10% of the grade)
-{: .cal-item .cal-item-release }
-
 *Background reading.* These are the two reference documents for the field.
 - [Computational Optimal Transport](https://arxiv.org/abs/1803.00567) — §1–2
 - [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf) — §1–2
+
+<span class="cal-tag cal-release">Released</span> [**Preparatory homework**](homework) (10% of the grade)
+{: .cal-item .cal-item-release }
 
 ### Mon Sep 21 · Duality
 *Whiteboard session*
 The Kantorovich linear program and its dual, strong duality, and the Kantorovich–Rubinstein theorem.  Entropic regularization and the Sinkhorn algorithm.
 
-<span class="cal-tag cal-due">Due</span> [**Preparatory homework**](homework) — at the start of class
-{: .cal-item .cal-item-due }
-
 *Background reading:*
 - [Computational Optimal Transport](https://arxiv.org/abs/1803.00567) — §3–4
+
+<span class="cal-tag cal-due">Due</span> [**Preparatory homework**](homework) — at the start of class
+{: .cal-item .cal-item-due }
 
 ### Mon Sep 28 · A dynamic view on distribution morphing
 *Whiteboard session*
@@ -71,12 +71,12 @@ and expectations.
 - [CFG-Zero\*: Improved Classifier-Free Guidance](https://arxiv.org/abs/2503.18886) (Fan et al., 2025)
 
 ### Mon Oct 26 · Flow matching on structured domains
-<span class="cal-tag cal-due">Due</span> **Project — preliminary proposal**
-{: .cal-item .cal-item-due }
-
 *Papers to present:*
 - [Riemannian Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) (Chen & Lipman, 2023)
 - [Discrete Flow Matching](https://arxiv.org/abs/2407.15595) (Gat et al., 2024)
+
+<span class="cal-tag cal-due">Due</span> **Project — preliminary proposal**
+{: .cal-item .cal-item-due }
 
 ### Mon Nov 2 · Amortizing maps and flows over distributions
 *Papers to present:*
@@ -109,7 +109,7 @@ and expectations.
 - [Auto-Regressive vs Flow-Matching: a Comparative Study of Modeling Paradigms for Text-to-Music Generation](https://arxiv.org/abs/2506.08570) (Tal et al., 2025)
 
 ### Mon Dec 14 · Final project session
+*Last day of classes.* See [Project Logistics](project).
+
 <span class="cal-tag cal-due">Due</span> **Final project** — write-up & presentation
 {: .cal-item .cal-item-due }
-
-*Last day of classes.* See [Project Logistics](project).
