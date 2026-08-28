@@ -24,7 +24,7 @@ the other hand, is a signal that this course may not be a good match.
 
 Work must be handwritten and scanned before submission as a single PDF on
 [Brightspace](https://brightspace.nyu.edu), by the start of class on Mon Sep 21.
-If handwriting is difficult for you, please email the TA to find an alternative.
+If handwriting is difficult for you, please email me to find an alternative.
 
 ## Collaboration and AI
 
