@@ -22,8 +22,9 @@ the other hand, is a signal that this course may not be a good match.
 
 ## Submission
 
-Submit a single PDF on [Brightspace](https://brightspace.nyu.edu) by the start of
-class on Mon Sep 21. You may typeset in LaTeX or scan legible handwritten work.
+Work must be handwritten and scanned before submission as a single PDF on
+[Brightspace](https://brightspace.nyu.edu), by the start of class on Mon Sep 21.
+If handwriting is difficult for you, please email the TA to find an alternative.
 
 ## Collaboration and AI
 
