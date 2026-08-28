@@ -34,6 +34,16 @@ html {
   font-size: 1.15rem;
 }
 
+// Role sits directly under the name, set small and in the site accent so the
+// two cards are told apart at a glance without a heading for each person.
+.staff-role {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #7253ed;
+}
+
 .staff-meta {
   color: #6c6a73; // muted grey, matches Just the Docs secondary text
 }

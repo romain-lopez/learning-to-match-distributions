@@ -14,14 +14,25 @@ In a growing range of problems across statistics and machine learning, the objec
 
 This class develops the mathematical machinery for exactly these three operations — measuring distances between distributions, learning maps that optimally move one onto another, and constructing flows that interpolate between them — alongside the statistical machine learning approaches (optimal transport, flow matching) that make them practical at scale. It also aims to arm students with the essential practical skills required to do further research in this rapidly evolving field.
 
-## Instructor
+## Teaching Team
 
 <div class="staff-card">
   <img class="staff-photo" src="{{ '/assets/images/romain.jpg' | relative_url }}" alt="Romain Lopez">
   <div class="staff-info">
     <a class="staff-name" href="https://romain-lopez.github.io">Romain Lopez</a>
+    <span class="staff-role">Instructor</span>
     <span class="staff-meta">Email: romain.lopez@nyu.edu</span>
     <span class="staff-meta">Office Hours: Mondays, 3:30–4:30 PM, 60 Fifth Avenue, Office 304</span>
+  </div>
+</div>
+
+<div class="staff-card">
+  <img class="staff-photo" src="{{ '/assets/images/vaibhavi.jpg' | relative_url }}" alt="Vaibhavi Singh">
+  <div class="staff-info">
+    <span class="staff-name">Vaibhavi Singh</span>
+    <span class="staff-role">Teaching Assistant</span>
+    <span class="staff-meta">Email: vaibhavi.singh@nyu.edu</span>
+    <span class="staff-meta">Office Hours: Fridays, 12:30–1:30 PM, 60 Fifth Avenue, Room 502</span>
   </div>
 </div>
 
