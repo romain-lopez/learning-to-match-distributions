@@ -59,6 +59,7 @@ saying who did what.
 | Milestone | Due | Notes |
 |---|---|---|
 | Team formation | **Mon Oct 5** | Email the TA your team members and a team name. |
+| Project check-in | **Mon Nov 2** | One page emailed to the TA: your question, the closest existing work, and how you plan to answer it. Ungraded. |
 | Presentation | **Mon Dec 7** | In class, one per team. |
 | Write-up | **Mon Dec 14** | On Brightspace. |
 

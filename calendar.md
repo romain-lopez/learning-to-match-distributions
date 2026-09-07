@@ -82,6 +82,9 @@ and expectations.
 - [Discrete Flow Matching](https://arxiv.org/abs/2407.15595) (Gat et al., 2024)
 
 ### Mon Nov 2 · Amortizing maps and flows over distributions
+<span class="cal-tag cal-due">Due</span> **Project check-in**, by email to the TA
+{: .cal-item .cal-item-due }
+
 *Papers to present:*
 - [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers](https://arxiv.org/abs/2404.09411) (Haviv et al., 2024)
 - [Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold](https://arxiv.org/abs/2408.14608) (Atanackovic et al., 2025)
