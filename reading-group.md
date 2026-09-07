@@ -81,8 +81,8 @@ bad idea in brainstorming. Bring in your own background here.
   notebook instead of slides if they prefer.
 - **Deadlines.** Material submitted after 11 AM may not be loaded in time for the
   class, in which case you will present without slides. If you miss a panel you signed
-  up for, that appearance scores zero. If you know in advance that you cannot make a slot, tell us at least
-  **one week** ahead and we will move you to another one.
+  up for, that appearance scores zero. If you know in advance that you cannot make a
+  slot, tell us at least **one week** ahead and we will move you to another one.
 
 ## Grading (30%)
 
