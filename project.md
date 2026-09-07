@@ -64,3 +64,4 @@ the write-up saying who did what.
 
 Submit the final write-up as a PDF on
 [Brightspace](https://brightspace.nyu.edu).
+Late work is not accepted without prior arrangement.
