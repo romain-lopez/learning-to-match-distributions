@@ -78,9 +78,15 @@ bad idea in brainstorming. Bring in your own background here.
   linked from [Brightspace](https://brightspace.nyu.edu). Each paper takes four
   sign-ups, one per role. The sheet opens at the start of the semester and the deadline
   is announced with it.
-- **Uploading your material.** Slides (and a notebook, if your role calls for one)
-  are due by **11 AM on the day of the class**. Guidance on where to upload them will
-  be provided.
+- **Uploading your material.** Submit through the
+  [material upload form](https://docs.google.com/forms/d/e/1FAIpQLSfaDRaHNVLld4ANxKdpowF8UGIPsRUGjHgf2Ve3hUsVS8FcaQ/viewform)
+  by **11 AM on the day of the class**. Submit a PDF; if you have the Hacker role you
+  may submit a notebook (.ipynb) instead, saved with its outputs. Your file must
+  prominently show your name, the paper you are presenting, and your role, either on
+  the first slide or in the first cell. Name it `MMDD_P1_Role_Lastname`, for example
+  `1130_P1_Hacker_Singh.pdf`, where P1 is the first paper listed for that session on
+  the [Calendar](calendar) and P2 the second. You can reopen the form and swap your
+  file any time before the deadline.
 
 ## Grading (30%)
 
