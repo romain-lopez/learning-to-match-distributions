@@ -66,8 +66,7 @@ bad idea in brainstorming. Bring in your own background here.
 ## Expectations
 
 - Every student presents **around four times** during the semester. With 18 papers
-  and four roles for each, there are 72 panel slots to spread across the class; the
-  exact count per student is confirmed once sign-up closes.
+  and four roles for each, there are 72 panel slots to spread across the class.
 - Presenters prepare slides and, where the role calls for it, a short demo.
 - All students are expected to come having read the assigned papers and ready to
   contribute to the discussion.
