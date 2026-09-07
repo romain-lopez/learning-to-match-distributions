@@ -71,9 +71,6 @@ and expectations.
 - [CFG-Zero\*: Improved Classifier-Free Guidance](https://arxiv.org/abs/2503.18886) (Fan et al., 2025)
 
 ### Mon Oct 26 · Flow matching on structured domains
-<span class="cal-tag cal-due">Due</span> **Project — preliminary proposal**
-{: .cal-item .cal-item-due }
-
 *Papers to present:*
 - [Riemannian Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) (Chen & Lipman, 2023)
 - [Discrete Flow Matching](https://arxiv.org/abs/2407.15595) (Gat et al., 2024)
