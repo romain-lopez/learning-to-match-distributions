@@ -34,7 +34,7 @@ the topic but that you have a real question and go after it properly.
 6. **State the limitations** of what you did, and what you would do next.
 
 Negative results are fine. Sometimes a project does not work out — say so clearly,
-show the numbers, and explain what you learned. That is a good project.
+show the numbers, and explain what you learned.
 
 ## Deliverables
 
