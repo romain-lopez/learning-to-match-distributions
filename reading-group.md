@@ -76,9 +76,9 @@ bad idea in brainstorming. Bring in your own background here.
 - **Sign-up.** The sheet will be posted on [Brightspace](https://brightspace.nyu.edu)
   on **Wed Sep 16**, and sign-up closes on **Mon Sep 28**. Claim a paper and a role by
   adding your NetID to the sheet. Each paper takes four sign-ups, one per role.
-- **Uploading your material.** Slides (and a notebook, if your role calls for one)
-  are due by **11 AM on the day of the class**. The upload link is on
-  [Brightspace](https://brightspace.nyu.edu).
+- **Uploading your material.** Slides are due by **11 AM on the day of the class**.
+  The upload link is on [Brightspace](https://brightspace.nyu.edu). You may submit a
+  notebook instead of slides if you prefer.
 - **Deadlines.** Material submitted after 11 AM will not be loaded, and you will
   present without slides. If you miss a panel you signed up for, that appearance
   scores zero. If you know in advance that you cannot make a slot, tell us at least
