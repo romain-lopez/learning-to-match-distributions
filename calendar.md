@@ -95,18 +95,19 @@ and expectations.
 - [Unbalanced Minibatch Optimal Transport; Applications to Domain Adaptation](https://arxiv.org/abs/2103.03606) (Fatras et al., 2021)
 - [Unbalancedness in Neural Monge Maps](https://arxiv.org/abs/2311.15100) (Eyring et al., 2024)
 
-### Mon Nov 30 · Applications I: single-cell biology
+### Mon Nov 30 · Applications
 *Papers to present:*
-- [Optimal-Transport Analysis of Single-Cell Gene Expression / Waddington-OT](https://doi.org/10.1016/j.cell.2019.01.006) (Schiebinger et al., 2019)
 - [GENOT: Generative Entropic Neural Optimal Transport](https://arxiv.org/abs/2310.09254) (Klein et al., 2024)
-
-### Mon Dec 7 · Applications II: music generation
-*Papers to present:*
 - [MusicFlow: Cascaded Flow Matching for Text Guided Music Generation](https://arxiv.org/abs/2410.20478) (Prajwal et al., 2024)
-- [Auto-Regressive vs Flow-Matching: a Comparative Study of Modeling Paradigms for Text-to-Music Generation](https://arxiv.org/abs/2506.08570) (Tal et al., 2025)
 
-### Mon Dec 14 · Final project session
-<span class="cal-tag cal-due">Due</span> **Final project**: write-up & presentation
+### Mon Dec 7 · Final project presentations
+<span class="cal-tag cal-due">Due</span> **Final project**: presentation
 {: .cal-item .cal-item-due }
 
-*Last day of classes.* See [Project Logistics](project).
+Every team presents its project in class. See [Project Logistics](project).
+
+### Mon Dec 14 · Guest talk
+<span class="cal-tag cal-due">Due</span> **Final project**: write-up
+{: .cal-item .cal-item-due }
+
+*Virtual guest talk, speaker to be announced. Last day of classes.*

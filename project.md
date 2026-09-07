@@ -38,7 +38,7 @@ show the numbers, and explain what you learned.
 
 ## Deliverables
 
-- **A poster or a presentation** in the final session. The format will be confirmed
+- **A poster or a presentation** on Mon Dec 7. The format will be confirmed
   later in the semester.
 - **A four-page write-up**, in the spirit of a NeurIPS workshop abstract: four pages in
   the [NeurIPS LaTeX format](https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip),
@@ -57,7 +57,8 @@ the write-up saying who did what.
 
 | Milestone | Due | Notes |
 |---|---|---|
-| Write-up & presentation | **Mon Dec 14** | In the final class. |
+| Presentation | **Mon Dec 7** | In class, one per team. |
+| Write-up | **Mon Dec 14** | On Brightspace. |
 
 ## Submission
 
