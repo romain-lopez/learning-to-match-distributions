@@ -79,8 +79,8 @@ bad idea in brainstorming. Bring in your own background here.
   sign-ups, one per role. The sheet opens at the start of the semester and the deadline
   is announced with it.
 - **Uploading your material.** Slides (and a notebook, if your role calls for one)
-  are due by **11 AM on the day of the class**. Guidance on where to upload them will
-  be provided.
+  are due by **11 AM on the day of the class**. The upload link is on
+  [Brightspace](https://brightspace.nyu.edu).
 
 ## Grading (30%)
 
