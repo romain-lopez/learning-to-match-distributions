@@ -88,6 +88,6 @@ bad idea in brainstorming. Bring in your own background here.
 
 ## Grading (30%)
 
-Most of this comes from your four panel appearances. Each is graded on whether you took
+Most of this comes from your panel appearances. Each is graded on whether you took
 the role seriously, engaged with the paper in depth, and brought the room something it
 could not have gotten from reading the abstract.
