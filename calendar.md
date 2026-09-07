@@ -34,7 +34,7 @@ The Kantorovich linear program and its dual, strong duality, and the Kantorovich
 - [Computational Optimal Transport](https://arxiv.org/abs/1803.00567), §3–4
 
 ### Mon Sep 28 · A dynamic view on distribution morphing
-<span class="cal-tag cal-due">Due</span> **Paper sign-up**, on [Brightspace](https://brightspace.nyu.edu)
+<span class="cal-tag cal-due">Due</span> **Paper presentation sign-up**, on [Brightspace](https://brightspace.nyu.edu)
 {: .cal-item .cal-item-due }
 
 *Whiteboard session*
