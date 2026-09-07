@@ -54,6 +54,9 @@ Papers in this part are **presented by students** in the reading group. See
 and expectations.
 
 ### Mon Oct 5 · Supervised training of Monge maps
+<span class="cal-tag cal-due">Due</span> **Project team formation**, by email to the TA
+{: .cal-item .cal-item-due }
+
 *Papers to present:*
 - [Supervised Training of Conditional Monge Maps](https://arxiv.org/abs/2206.14262) (Bunne et al., 2022)
 - [Monge Gap](https://arxiv.org/abs/2302.04953) (Uscidda & Cuturi, 2023)
