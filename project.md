@@ -50,13 +50,15 @@ reader understands what you did and why it matters from the four pages alone.
 
 ## Teams
 
-**Teams of 2–4 students.** Include a short contribution statement in the appendix of
-the write-up saying who did what.
+**Teams of 2–4 students.** Email the TA your team members and a team name by
+**Mon Oct 5**. Include a short contribution statement in the appendix of the write-up
+saying who did what.
 
 ## Milestones
 
 | Milestone | Due | Notes |
 |---|---|---|
+| Team formation | **Mon Oct 5** | Email the TA your team members and a team name. |
 | Presentation | **Mon Dec 7** | In class, one per team. |
 | Write-up | **Mon Dec 14** | On Brightspace. |
 
