@@ -57,10 +57,9 @@ the write-up saying who did what.
 
 | Milestone | Due | Notes |
 |---|---|---|
-| Proposal | **Mon Oct 26** | One page, showing you have a plan that gets you to the final report. |
 | Write-up & presentation | **Mon Dec 14** | In the final class. |
 
 ## Submission
 
-Submit the proposal and the final write-up as PDFs on
+Submit the final write-up as a PDF on
 [Brightspace](https://brightspace.nyu.edu).
