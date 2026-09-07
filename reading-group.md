@@ -73,10 +73,9 @@ bad idea in brainstorming. Bring in your own background here.
 
 ## Logistics
 
-- **Sign-up.** Claim a paper and a role by adding your name to the shared spreadsheet
-  linked from [Brightspace](https://brightspace.nyu.edu). Each paper takes four
-  sign-ups, one per role. The sheet opens at the start of the semester and the deadline
-  is announced with it.
+- **Sign-up.** The sheet will be posted on [Brightspace](https://brightspace.nyu.edu)
+  on **Wed Sep 16**, and sign-up closes on **Mon Sep 28**. Claim a paper and a role by
+  adding your NetID to the sheet. Each paper takes four sign-ups, one per role.
 - **Uploading your material.** Slides (and a notebook, if your role calls for one)
   are due by **11 AM on the day of the class**. The upload link is on
   [Brightspace](https://brightspace.nyu.edu).
