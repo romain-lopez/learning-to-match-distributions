@@ -88,4 +88,5 @@ bad idea in brainstorming. Bring in your own background here.
 
 Most of this comes from your panel appearances. Each is graded on whether you took
 the role seriously, engaged with the paper in depth, and brought the room something it
-could not have gotten from reading the abstract.
+could not have gotten from reading the abstract. The rest will come from class
+attendance and participation.
