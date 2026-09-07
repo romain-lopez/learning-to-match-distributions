@@ -11,7 +11,7 @@ nav_order: 2
 {: .part-header }
 
 ### Mon Sep 7 · No class
-*Labor Day (university holiday) — first class meets Sep 14.*
+*Labor Day (university holiday). First class meets Sep 14.*
 
 ### Mon Sep 14 · Tour of Optimal Transport and Flow Matching
 <span class="cal-tag cal-release">Released</span> [**Preparatory homework**](homework) (10% of the grade)
@@ -20,26 +20,26 @@ nav_order: 2
 Course intro & logistics. Historical views and main results. Overview of recent advances in the field.
 
 *Background reading:*
-- [Computational Optimal Transport](https://arxiv.org/abs/1803.00567) — §1–2
-- [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf) — §1–2
+- [Computational Optimal Transport](https://arxiv.org/abs/1803.00567), §1–2
+- [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf), §1–2
 
 ### Mon Sep 21 · Duality
-<span class="cal-tag cal-due">Due</span> [**Preparatory homework**](homework) — at the start of class
+<span class="cal-tag cal-due">Due</span> [**Preparatory homework**](homework), at the start of class
 {: .cal-item .cal-item-due }
 
 *Whiteboard session*
 The Kantorovich linear program and its dual, strong duality, and the Kantorovich–Rubinstein theorem.  Entropic regularization and the Sinkhorn algorithm.
 
 *Background reading:*
-- [Computational Optimal Transport](https://arxiv.org/abs/1803.00567) — §3–4
+- [Computational Optimal Transport](https://arxiv.org/abs/1803.00567), §3–4
 
 ### Mon Sep 28 · A dynamic view on distribution morphing
 *Whiteboard session*
 Flows of vector fields and the continuity equation; dynamic optimal transport and the Benamou–Brenier formulation. Flow models, conditional probability paths, the marginalization trick, and the flow matching objective.
 
 *Background reading:*
-- [Computational Optimal Transport](https://arxiv.org/abs/1803.00567) — §7
-- [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf) — §3,§5,§6
+- [Computational Optimal Transport](https://arxiv.org/abs/1803.00567), §7
+- [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf), §3,§5,§6
 
 ---
 
@@ -59,7 +59,7 @@ and expectations.
 *Fall Break (university holiday).*
 
 ### Wed Oct 14 · Alternate optimal transport problems
-*Legislative Monday — classes meet on a Monday schedule.*
+*Legislative Monday: classes meet on a Monday schedule.*
 
 *Papers to present:*
 - [Gromov–Wasserstein Averaging of Kernel and Distance Matrices](https://proceedings.mlr.press/v48/peyre16.html) (Peyré et al., 2016)
@@ -106,7 +106,7 @@ and expectations.
 - [Auto-Regressive vs Flow-Matching: a Comparative Study of Modeling Paradigms for Text-to-Music Generation](https://arxiv.org/abs/2506.08570) (Tal et al., 2025)
 
 ### Mon Dec 14 · Final project session
-<span class="cal-tag cal-due">Due</span> **Final project** — write-up & presentation
+<span class="cal-tag cal-due">Due</span> **Final project**: write-up & presentation
 {: .cal-item .cal-item-due }
 
 *Last day of classes.* See [Project Logistics](project).

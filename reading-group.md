@@ -20,7 +20,7 @@ Every paper is covered by **four students**, each taking a different role from t
 below. You choose which role you take when you sign up, so the mix of perspectives
 changes from paper to paper.
 
-Whatever the role, prepare to talk about the paper for roughly **8 minutes** — about
+Whatever the role, prepare to talk about the paper for roughly **8 minutes**, or about
 ten slides.
 
 🔬 **Scientific Peer Reviewer**
@@ -30,7 +30,7 @@ area, with you assigned as one of its reviewers. Complete a full review followin
 and commit to a recommendation to accept or reject. A strong review does three things:
 it summarizes the problem, the contribution, and why it matters; it states strengths
 and weaknesses plainly, including what most needs improvement; and it checks for
-fundamental flaws — are the assumptions sound, do the experiments support the claims,
+fundamental flaws: are the assumptions sound, do the experiments support the claims,
 is prior work properly credited? In class, walk us through your review and put your
 questions to the room.
 
@@ -45,7 +45,7 @@ repurpose it for something else?
 📊 **Data Analyst**
 : Talk about the datasets, the curation, the benchmarks, and the metrics. Be as
 specific as possible and hunt for the little details that matter. Don't expect full
-answers from the paper — investigate and research. If a method is only ever
+answers from the paper; investigate and research. If a method is only ever
 demonstrated on synthetic two-dimensional examples, say so and explain what that does
 and does not establish.
 
@@ -53,13 +53,13 @@ and does not establish.
 : Talk about how to implement the algorithm. Study the open-source repositories and
 tell us the status quo: officially released (training, inference, or both?), community
 replication, work in progress, or nothing at all. Dig into the implementation details
-that decide whether it works — how the data is batched, how the loss is really
+that decide whether it works: how the data is batched, how the loss is really
 computed, how much compute a realistic run takes. Best form of presentation: a Colab
 notebook.
 
 💡 **Academic Researcher**
 : You are a researcher starting a new project in this area. Propose an imaginary
-follow-up project — not merely one that builds on this paper, but one that is only
+follow-up project, not merely one that builds on this paper, but one that is only
 *possible* because this paper exists and succeeded. Keyword: imaginary. No idea is a
 bad idea in brainstorming. Bring in your own background here.
 
@@ -78,7 +78,7 @@ bad idea in brainstorming. Bring in your own background here.
   linked from [Brightspace](https://brightspace.nyu.edu). Each paper takes four
   sign-ups, one per role. The sheet opens at the start of the semester and the deadline
   is announced with it.
-- **Uploading your material.** Slides — and a notebook, if your role calls for one —
+- **Uploading your material.** Slides (and a notebook, if your role calls for one)
   are due by **11 AM on the day of the class**. Guidance on where to upload them will
   be provided.
 

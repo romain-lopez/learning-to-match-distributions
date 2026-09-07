@@ -29,7 +29,7 @@ If handwriting is difficult for you, please email me to find an alternative.
 ## Collaboration and AI
 
 You may discuss these problems with other students, and you may use AI assistants.
-Disclose both — a line at the top naming who you worked with and how you used any
+Disclose both: a line at the top naming who you worked with and how you used any
 assistant is enough. Nothing prevents you from having one write your answers, but
 the preparation is the entire point, and you would be skipping it. Looking up a
 definition from convex analysis or multivariate calculus is ordinary and expected;
@@ -39,5 +39,5 @@ outsourcing the reasoning is not.
 
 Worth **10% of the final grade**. Each part is worth the points marked beside it,
 100 in total, and those points are awarded for **a genuine attempt** rather than for
-a correct answer — a blank or a one-line non-answer earns nothing. Solutions are
+a correct answer. A blank or a one-line non-answer earns nothing. Solutions are
 released after the deadline.
