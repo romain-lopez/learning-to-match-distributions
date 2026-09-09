@@ -113,7 +113,8 @@ and expectations.
 <span class="cal-tag cal-due">Due</span> **Final project**: poster
 {: .cal-item .cal-item-due }
 
-Every team presents a poster in class. See [Project Logistics](project).
+Every team presents a poster in class and uploads it on Brightspace. See
+[Project Logistics](project).
 
 ### Mon Dec 14 · Guest talk
 

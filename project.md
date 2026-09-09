@@ -42,7 +42,9 @@ show the numbers, and explain what you learned.
 poster session: your team stands by its poster and talks through the work with whoever
 comes by. There is no written report.
 
-Put a one-line contribution statement on the poster saying who did what.
+Upload the poster as a PDF on [Brightspace](https://brightspace.nyu.edu) by
+**Mon Dec 7**, and put a one-line contribution statement on the poster saying who did
+what.
 
 ## Teams
 
@@ -55,10 +57,10 @@ Put a one-line contribution statement on the poster saying who did what.
 |---|---|---|
 | Team registration | **Mon Oct 5** | Your team members and a team name, on Brightspace. |
 | Project check-in | **Mon Nov 2** | One page on Brightspace: your question, the closest existing work, and how you plan to answer it. |
-| Poster session | **Mon Dec 7** | In class, one poster per team. |
+| Poster session | **Mon Dec 7** | In class, one poster per team. Upload the poster PDF on Brightspace. |
 
 ## Submission
 
-Team registration and the project check-in are submitted on
+Team registration, the project check-in, and the poster PDF are all submitted on
 [Brightspace](https://brightspace.nyu.edu).
 Late work is not accepted without prior arrangement.
