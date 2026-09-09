@@ -40,7 +40,7 @@ show the numbers, and explain what you learned.
 
 **A poster**, presented in class on Mon Dec 7, one per team. The session runs as a
 poster session: your team stands by its poster and talks through the work with whoever
-comes by. There is no written report.
+comes by.
 
 Upload the poster as a PDF on [Brightspace](https://brightspace.nyu.edu) by
 **Mon Dec 7**, and put a one-line contribution statement on the poster saying who did
