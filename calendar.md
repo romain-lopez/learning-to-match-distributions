@@ -23,7 +23,7 @@ Course intro & logistics. Historical views and main results. Overview of recent 
 - [Computational Optimal Transport](https://arxiv.org/abs/1803.00567), §1–2
 - [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf), §1–2
 
-### Mon Sep 21 · A tour of duality in computational optimal transport
+### Mon Sep 21 · Duality in computational optimal transport
 <span class="cal-tag cal-due">Due</span> [**Preparatory homework**](homework), at the start of class
 {: .cal-item .cal-item-due }
 
