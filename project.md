@@ -38,33 +38,27 @@ show the numbers, and explain what you learned.
 
 ## Deliverables
 
-- **A poster or a presentation** on Mon Dec 7. The format will be confirmed
-  later in the semester.
-- **A four-page write-up**, in the spirit of a NeurIPS workshop abstract: four pages in
-  the [NeurIPS LaTeX format](https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip),
-  not counting references.
+**A poster**, presented in class on Mon Dec 7, one per team. The session runs as a
+poster session: your team stands by its poster and talks through the work with whoever
+comes by. There is no written report.
 
-You may add appendices with further details if you need them, and the contribution
-statement does not count towards the page limit either. The goal, though, is that a
-reader understands what you did and why it matters from the four pages alone.
+Put a one-line contribution statement on the poster saying who did what.
 
 ## Teams
 
-**Teams of 2–4 students.** Email the TA your team members and a team name by
-**Mon Oct 5**. Include a short contribution statement in the appendix of the write-up
-saying who did what.
+**Teams of 2–4 students.** Register your team members and a team name on
+[Brightspace](https://brightspace.nyu.edu) by **Mon Oct 5**.
 
 ## Milestones
 
 | Milestone | Due | Notes |
 |---|---|---|
-| Team formation | **Mon Oct 5** | Email the TA your team members and a team name. |
-| Project check-in | **Mon Nov 2** | One page emailed to the TA: your question, the closest existing work, and how you plan to answer it. Ungraded. |
-| Presentation | **Mon Dec 7** | In class, one per team. |
-| Write-up | **Mon Dec 14** | On Brightspace. |
+| Team registration | **Mon Oct 5** | Your team members and a team name, on Brightspace. |
+| Project check-in | **Mon Nov 2** | One page on Brightspace: your question, the closest existing work, and how you plan to answer it. |
+| Poster session | **Mon Dec 7** | In class, one poster per team. |
 
 ## Submission
 
-Submit the final write-up as a PDF on
+Team registration and the project check-in are submitted on
 [Brightspace](https://brightspace.nyu.edu).
 Late work is not accepted without prior arrangement.

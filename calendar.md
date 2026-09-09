@@ -54,7 +54,7 @@ Papers in this part are **presented by students** in the reading group. See
 and expectations.
 
 ### Mon Oct 5 · Supervised training of Monge maps
-<span class="cal-tag cal-due">Due</span> **Project team formation**, by email to the TA
+<span class="cal-tag cal-due">Due</span> **Project team registration**, on [Brightspace](https://brightspace.nyu.edu)
 {: .cal-item .cal-item-due }
 
 *Papers to present:*
@@ -82,7 +82,7 @@ and expectations.
 - [Discrete Flow Matching](https://arxiv.org/abs/2407.15595) (Gat et al., 2024)
 
 ### Mon Nov 2 · Amortizing maps and flows over distributions
-<span class="cal-tag cal-due">Due</span> **Project check-in**, by email to the TA
+<span class="cal-tag cal-due">Due</span> **Project check-in**, on [Brightspace](https://brightspace.nyu.edu)
 {: .cal-item .cal-item-due }
 
 *Papers to present:*
@@ -109,14 +109,12 @@ and expectations.
 - [GENOT: Generative Entropic Neural Optimal Transport](https://arxiv.org/abs/2310.09254) (Klein et al., 2024)
 - [MusicFlow: Cascaded Flow Matching for Text Guided Music Generation](https://arxiv.org/abs/2410.20478) (Prajwal et al., 2024)
 
-### Mon Dec 7 · Final project presentations
-<span class="cal-tag cal-due">Due</span> **Final project**: presentation
+### Mon Dec 7 · Final project poster session
+<span class="cal-tag cal-due">Due</span> **Final project**: poster
 {: .cal-item .cal-item-due }
 
-Every team presents its project in class. See [Project Logistics](project).
+Every team presents a poster in class. See [Project Logistics](project).
 
 ### Mon Dec 14 · Guest talk
-<span class="cal-tag cal-due">Due</span> **Final project**: write-up
-{: .cal-item .cal-item-due }
 
 *Virtual guest talk, speaker to be announced. Last day of classes.*
