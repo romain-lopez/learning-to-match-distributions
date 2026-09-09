@@ -7,7 +7,7 @@ nav_order: 5
 # Project Logistics
 {: .no_toc }
 
-The semester-long project is the largest component of the grade (60%). It is your
+The semester-long project is the largest component of the grade (50%). It is your
 chance to go deep on one corner of the course material.
 
 ## Scope

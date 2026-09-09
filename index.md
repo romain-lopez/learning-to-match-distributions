@@ -63,9 +63,10 @@ The [Calendar](calendar) will be regularly updated with the full week-by-week sc
 ## Grading
 
 Grading will be based on:
-1. Semester-long project (60%): anything that builds upon or applies optimal transport or flow matching, in teams of 2–4, presented as a poster in class on Dec 7. See the [Project Logistics](project) page for requirements, milestones, and deadlines.
+1. Semester-long project (50%): anything that builds upon or applies optimal transport or flow matching, in teams of 2–4, presented as a poster in class on Dec 7. See the [Project Logistics](project) page for requirements, milestones, and deadlines.
 2. Paper presentation & panel participation (30%): Each student signs up to present papers and take on reading-group roles; graded on presentations and live panel participation (no written reviews). See the [Role-play Seminar](reading-group) page to learn more about the format.
 3. Preparatory homework (10%): a problem set on the mathematical background, released at the first class and due Sep 21. Graded on a genuine attempt rather than on correct answers. See the [Preparatory Homework](homework) page.
+4. Attendance (10%): taken at every session. A role-play seminar only works if the audience is in the room.
 
 ## Collaboration and Use of AI
 
