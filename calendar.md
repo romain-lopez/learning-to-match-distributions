@@ -19,6 +19,9 @@ nav_order: 2
 
 Course intro & logistics. Historical views and main results. Overview of recent advances in the field.
 
+*Slides:*
+- [Lecture slides (PDF)]({{ '/assets/lecture-01-slides.pdf' | relative_url }})
+
 *Background reading:*
 - [Computational Optimal Transport](https://arxiv.org/abs/1803.00567), §1–2
 - [An Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/2026/docs/lecture_notes.pdf), §1–2
