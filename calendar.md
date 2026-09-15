@@ -13,14 +13,11 @@ nav_order: 2
 ### Mon Sep 7 · No class
 *Labor Day (university holiday). First class meets Sep 14.*
 
-### Mon Sep 14 · Tour of Optimal Transport and Flow Matching
+### Mon Sep 14 · Tour of Optimal Transport and Flow Matching · [Slides]({{ '/assets/lecture-01-slides.pdf' | relative_url }})
 <span class="cal-tag cal-release">Released</span> [**Preparatory homework**](homework) (10% of the grade)
 {: .cal-item .cal-item-release }
 
 Course intro & logistics. Historical views and main results. Overview of recent advances in the field.
-
-*Slides:*
-- [Lecture slides (PDF)]({{ '/assets/lecture-01-slides.pdf' | relative_url }})
 
 *Background reading:*
 - [Computational Optimal Transport](https://arxiv.org/abs/1803.00567), §1–2
